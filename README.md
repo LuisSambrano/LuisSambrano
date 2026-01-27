@@ -2,66 +2,48 @@
   <h1>Luis Sambrano</h1>
   <p><strong>System Architect & AI Product Designer</strong></p>
 # Luis Sambrano
-> **System Architect | Rust & React Engineering | AI Integration**
+> **Systems Engineer | Rust & React | AI Integration**
 
-I build high-performance distributed systems and "Quiet Luxury" user interfaces. My work focuses on bridging the gap between low-level system efficiency (Rust) and premium functional aesthetics (React/TypeScript).
+Building high-performance systems with a focus on efficiency and user experience.
+_Desarrollando sistemas de alto rendimiento con foco en eficiencia y experiencia de usuario._
 
 ---
 
-## 💎 Featured Personal Projects (Open Source)
-
-These projects demonstrate my core engineering philosophy: **Local First. Private. Beautiful.**
+## 🏗 Featured Work (Trabajos Destacados)
 
 ### [Invoice Zero](https://github.com/LuisSambrano/invoice-zero)
 
-**Status**: 🟢 Production Ready | **Stack**: Tauri v2, Rust, SQLite, React 19
+**Stack**: Tauri v2, Rust, SQLite, React 19
 
-> A "Unicorn-Tier" desktop application for invoicing. Built with a local-first architecture using Rust for the system core and React for a "Deep Space" glassmorphism UI. Zero telemetry, 100% offline.
+> **English**: A local-first, offline-capable invoicing desktop app. No trackers, just code.
+> **Español**: Aplicación de escritorio para facturación. Arquitectura local-first sin rastreadores.
 
-### [Dolar API Luxury](https://github.com/LuisSambrano/dolar-api)
+### [Dolar API](https://github.com/LuisSambrano/dolar-api)
 
-**Status**: 🟢 Live | **Stack**: Vite, TypeScript, Tailwind, Framer Motion
+**Stack**: Vite, TypeScript, Tailwind
 
-> A financial intelligence dashboard re-imagined. Fetches real-time market data with a "Solid Glass" aesthetic, featuring spring-physics animations and atomic component architecture.
-
----
-
-## 🏢 Key Engagements (Case Studies)
-
-High-impact commercial projects where I served as Lead Architect.
-_Code available upon request._
-
-### [📺 M&TVenezuela Core](./case-studies/m-tvenezuela-core.md)
-
-**Role**: System Architect
-
-> Designed the "Neural Newsroom" architecture. An AI-powered news aggregation system handling ingestion, deduplication, and sentiment analysis for a major media outlet.
-> _[Read Case Study →](./case-studies/m-tvenezuela-core.md)_
-
-### [🚜 METAfarming v1](./case-studies/metafarming-v1.md)
-
-**Role**: Blockchain Architect
-
-> A "Quantum Agrotech" platform tokenizing real-world assets (cattle/land). Bridging the gap between traditional farming yields and Web3 DeFi mechanics.
-> _[Read Case Study →](./case-studies/metafarming-v1.md)_
+> **English**: Real-time financial dashboard tracking exchange rates with performant animations.
+> **Español**: Dashboard financiero en tiempo real para seguimiento de tasas de cambio.
 
 ---
 
-## 🧪 Laboratory (R&D)
+## 📁 Case Studies (Casos de Estudio)
 
-Where I experiment with new technologies and break things.
+Architectural breakdowns of private commercial projects.
+_Desgloses arquitectónicos de proyectos comerciales privados._
 
-- **[Core-AI-Projects](https://github.com/LuisSambrano/Core-AI-Projects)**: My playground for checking Machine Learning models and Generative AI implementations.
-- **Experimental Branches**: Focus on Agentic Workflows, MCP Servers, and Rust/WASM bridges.
+- **[M&TVenezuela Core](./case-studies/m-tvenezuela-core.md)**: AI-driven newsroom automation. _(Automatización de redacción con IA)._
+- **[METAfarming](./case-studies/metafarming-v1.md)**: Web3 agricultural asset tokenization. _(Tokenización de activos agrícolas)._
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-- **Systems**: Rust, Tauri, Node.js
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **AI/Data**: Python, Supabase (PostgreSQL), Vector Stores
-- **Design**: Figma, Framer Motion, Glassmorphism 2.0
+- **Systems**: Rust, Node.js
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **Data**: PostgreSQL, SQLite, Python
+
+---
 
 <br clear="left" />
 
