@@ -1,6 +1,4 @@
 <div align="left">
-  <img src="avatar.png" width="120" alt="Luis Sambrano" style="border-radius: 50%; float: left; margin-right: 20px; margin-bottom: 20px;">
-  
   <h1>Luis Sambrano</h1>
   <p><strong>Software Engineer & System Architect</strong></p>
   
@@ -32,9 +30,10 @@
 
 ## Current Projects
 
-- 🔭 **M&T Venezuela System**: A "Unicorn-Tier" distributed intelligence platform.
-- 🔐 **Security & Identity**: Implementing MFA, Anti-Bot shields, and military-grade encryption standards.
-- ⚡ **Neural Consoles**: Developing AI-powered interfaces for real-time data ingestion and analysis.
+- 🛰️ **[m-tvenezuela-core](https://github.com/LuisSambrano/m-tvenezuela-core)** - The central nervous system for M&T Venezuela's digital intelligence platform.
+- ⚡ **[Core-AI-Projects](https://github.com/LuisSambrano/Core-AI-Projects)** - A curated laboratory exploring the convergence of AI and User Experience.
+- 💸 **[dolar-api](https://github.com/LuisSambrano/dolar-api)** - Robust financial data API for multi-currency tracking across LATAM.
+- 🌾 **[METAfarming-v1](https://github.com/LuisSambrano/METAfarming-v1)** - Agricultural intelligence systems V1.
 
 ---
 
