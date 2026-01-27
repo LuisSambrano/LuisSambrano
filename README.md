@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Luis Sambrano</h1>
-  <p><strong>Software Engineer & System Architect</strong></p>
+  <p><strong>UX/UI Designer & AI Product Architect</strong></p>
   
   <p>
     <a href="https://github.com/LuisSambrano">
