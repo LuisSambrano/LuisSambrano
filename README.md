@@ -1,46 +1,70 @@
 <div align="left">
   <h1>Luis Sambrano</h1>
   <p><strong>System Architect & AI Product Designer</strong></p>
-  
-  <p>
-    <a href="https://github.com/LuisSambrano">
-      <img src="https://img.shields.io/badge/Stack-TypeScript_React_Next.js-050505?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Stack" />
-    </a>
-    <a href="https://github.com/LuisSambrano">
-      <img src="https://img.shields.io/badge/Architecture-System_Core_Design-050505?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Architecture" />
-    </a>
-  </p>
+# Luis Sambrano
+> **System Architect | Rust & React Engineering | AI Integration**
 
-  <p>
-    Specialized in <strong>High-Performance Interfaces</strong> and <strong>Quantum UX</strong>. 
-    Building the bridge between Raw Intelligence and Human Perception.
-  </p>
-</div>
+I build high-performance distributed systems and "Quiet Luxury" user interfaces. My work focuses on bridging the gap between low-level system efficiency (Rust) and premium functional aesthetics (React/TypeScript).
+
+---
+
+## 💎 Featured Personal Projects (Open Source)
+
+These projects demonstrate my core engineering philosophy: **Local First. Private. Beautiful.**
+
+### [Invoice Zero](https://github.com/LuisSambrano/invoice-zero)
+
+**Status**: 🟢 Production Ready | **Stack**: Tauri v2, Rust, SQLite, React 19
+
+> A "Unicorn-Tier" desktop application for invoicing. Built with a local-first architecture using Rust for the system core and React for a "Deep Space" glassmorphism UI. Zero telemetry, 100% offline.
+
+### [Dolar API Luxury](https://github.com/LuisSambrano/dolar-api)
+
+**Status**: 🟢 Live | **Stack**: Vite, TypeScript, Tailwind, Framer Motion
+
+> A financial intelligence dashboard re-imagined. Fetches real-time market data with a "Solid Glass" aesthetic, featuring spring-physics animations and atomic component architecture.
+
+---
+
+## 🏢 Key Engagements (Case Studies)
+
+High-impact commercial projects where I served as Lead Architect.
+_Code available upon request._
+
+### [📺 M&TVenezuela Core](./case-studies/m-tvenezuela-core.md)
+
+**Role**: System Architect
+
+> Designed the "Neural Newsroom" architecture. An AI-powered news aggregation system handling ingestion, deduplication, and sentiment analysis for a major media outlet.
+> _[Read Case Study →](./case-studies/m-tvenezuela-core.md)_
+
+### [🚜 METAfarming v1](./case-studies/metafarming-v1.md)
+
+**Role**: Blockchain Architect
+
+> A "Quantum Agrotech" platform tokenizing real-world assets (cattle/land). Bridging the gap between traditional farming yields and Web3 DeFi mechanics.
+> _[Read Case Study →](./case-studies/metafarming-v1.md)_
+
+---
+
+## 🧪 Laboratory (R&D)
+
+Where I experiment with new technologies and break things.
+
+- **[Core-AI-Projects](https://github.com/LuisSambrano/Core-AI-Projects)**: My playground for checking Machine Learning models and Generative AI implementations.
+- **Experimental Branches**: Focus on Agentic Workflows, MCP Servers, and Rust/WASM bridges.
+
+---
+
+### 🛠 Tech Stack
+
+- **Systems**: Rust, Tauri, Node.js
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **AI/Data**: Python, Supabase (PostgreSQL), Vector Stores
+- **Design**: Figma, Framer Motion, Glassmorphism 2.0
 
 <br clear="left" />
 
-## 💎 Selected Works
-
-### [dolar-api (Luxury Edition)](https://github.com/LuisSambrano/dolar-api)
-
-> **Financial Intelligence Dashboard**
->
-> A "Solid Glass" architecture implementation avoiding GPU thermal throttling. Features real-time data streaming (`dolarapi.com`) and physics-based interactions (`stiffness: 300`).
->
-> ![TypeScript](https://img.shields.io/badge/Type-System_Core-050505?style=flat-square) ![Status](https://img.shields.io/badge/Status-Production_Ready-00C853?style=flat-square)
-
-### [METAfarming (Quantum)](https://github.com/LuisSambrano/METAfarming-v1)
-
-> **Web3 Agrotech Ecosystem**
->
-> _[In Development]_ The future of Agriculture On-Chain. Integrating NFT Land/Cattle parcels with liquid tokenomics ($META/$FARM).
->
-> ![Stack](https://img.shields.io/badge/Tech-Next.js_13_Quantum-050505?style=flat-square) ![Status](https://img.shields.io/badge/Status-Concept_Phase-7B1FA2?style=flat-square)
-
-### [Core-AI-Projects](https://github.com/LuisSambrano/Core-AI-Projects)
-
-> **Experimental Laboratory**
->
 > A collection of R&D artifacts exploring Agentic Workflows and Neural Interfaces.
 
 ---
