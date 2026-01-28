@@ -25,6 +25,13 @@ _Desarrollando sistemas de alto rendimiento con foco en eficiencia y experiencia
 > **English**: Real-time financial dashboard tracking exchange rates with performant animations.
 > **Español**: Dashboard financiero en tiempo real para seguimiento de tasas de cambio.
 
+### [Antigravity Skills](https://github.com/LuisSambrano/antigravity-skills)
+
+**Stack**: Python (Forge), Google Gemini 1.5 Pro, AI Agents
+
+> **English**: Official library of "Clean Room" engineered AI capabilities. Deterministic prompts optimized for Google's ecosystem.
+> **Español**: Biblioteca oficial de capacidades de IA diseñadas desde cero. Prompts deterministas optimizados para el ecosistema Google.
+
 ---
 
 ## 📁 Case Studies (Casos de Estudio)
