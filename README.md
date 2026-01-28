@@ -25,6 +25,13 @@
 
 ---
 
+## 📊 Weekly Activity
+
+<!-- STATS:START -->
+<!-- This section is auto-updated every Monday -->
+<!-- STATS:END -->
+
+
 ## 🚀 Deployed Portfolio (Proyectos Funcionales)
 
 > _Production-ready systems deployed in the wild._
