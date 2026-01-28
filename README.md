@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSambrano&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=6" height="150" alt="languages graph" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=transparent&hide_border=true&background=00000000" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=LuisSambrano&theme=transparent&hide_border=true&background=00000000" height="150" alt="streak graph" />
 </div>
 
 ---
