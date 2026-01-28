@@ -9,7 +9,16 @@ _Desarrollando sistemas de alto rendimiento con foco en eficiencia y experiencia
 
 ---
 
-## 🏗 Featured Work (Trabajos Destacados)
+## 🚀 Deployed Portfolio (Proyectos Funcionales)
+
+> _Production-ready systems deployed in the wild._
+
+**[Pending to Populate]**
+_Awaiting your active deployments._
+
+---
+
+## 🏗 Featured Work (Active R&D)
 
 ### [Invoice Zero](https://github.com/LuisSambrano/invoice-zero)
 
@@ -48,21 +57,33 @@ _Desgloses arquitectónicos de proyectos comerciales privados._
 
 ### 🧠 AI & Agentic Core
 
-- **Models**: Google Gemini 1.5 Pro, Antigravity
-- **Memory**: Pinecone (Vector DB), Redis
-- **Frameworks**: LangChain, Python, Sentinel Agents (Custom)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 
-- **Compute**: Vercel (Frontend), Railway (Services), Google Cloud Platform
-- **Database**: Supabase (PostgreSQL), SQLite (Local)
-- **Automation**: n8n, GitHub Actions
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 📱 Mobile & Native (Apple/Android/PWA)
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 ### 💻 Application Layer
 
-- **Languages**: TypeScript, Rust, Python, Go
-- **Frontend**: Next.js 14, React 19, Tailwind CSS, Framer Motion
-- **Backend**: Node.js, NestJS, Hono
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA1F63?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
