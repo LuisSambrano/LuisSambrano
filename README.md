@@ -44,11 +44,25 @@ _Desgloses arquitectónicos de proyectos comerciales privados._
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Ecosystem
 
-- **Systems**: Rust, Node.js
-- **Frontend**: React, TypeScript, Tailwind CSS
-- **Data**: PostgreSQL, SQLite, Python
+### 🧠 AI & Agentic Core
+
+- **Models**: Google Gemini 1.5 Pro, Antigravity
+- **Memory**: Pinecone (Vector DB), Redis
+- **Frameworks**: LangChain, Python, Sentinel Agents (Custom)
+
+### ☁️ Cloud & Infrastructure
+
+- **Compute**: Vercel (Frontend), Railway (Services), Google Cloud Platform
+- **Database**: Supabase (PostgreSQL), SQLite (Local)
+- **Automation**: n8n, GitHub Actions
+
+### 💻 Application Layer
+
+- **Languages**: TypeScript, Rust, Python, Go
+- **Frontend**: Next.js 14, React 19, Tailwind CSS, Framer Motion
+- **Backend**: Node.js, NestJS, Hono
 
 ---
 
