@@ -1,12 +1,15 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=System+Architect;AI+Product+Designer;Google+Cloud+Engineer;Building+Autonomous+Agents...+%F0%9F%A4%96" alt="Typing SVG" />
-  <p><strong>Systems Engineer | Rust & React | AI Integration</strong></p>
-  
-  <a href="https://github.com/LuisSambrano">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <br />
+
+  <a href="https://bento.me/luissambranoux">
+    <img src="https://img.shields.io/badge/Bento-768CFF?style=for-the-badge&logo=bento&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/luissambrano">
+  <a href="https://linkedin.com/in/luissambranoux">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/luissambrano_ux">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:luissambranoarg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,8 +31,10 @@
 
 > _Production-ready systems deployed in the wild._
 
-**[Pending to Populate]**
-_Awaiting your active deployments._
+### 🚧 **Architecting Next-Gen Solutions**
+
+> Currently migrating private enterprise architectures into public-facing demos.
+> _Actualmente migrando arquitecturas privadas a demostraciones públicas._
 
 ---
 
@@ -49,12 +54,12 @@ _Awaiting your active deployments._
 > **English**: Real-time financial dashboard tracking exchange rates with performant animations.
 > **Español**: Dashboard financiero en tiempo real para seguimiento de tasas de cambio.
 
-### [Antigravity Skills](https://github.com/LuisSambrano/antigravity-skills)
+### [Antigravity Skills](https://github.com/LuisSambrano/antigravity-skills) `[V1.0 ENTERPRISE]`
 
 **Stack**: Python (Forge), Google Gemini 1.5 Pro, AI Agents
 
-> **English**: Official library of "Clean Room" engineered AI capabilities. Deterministic prompts optimized for Google's ecosystem.
-> **Español**: Biblioteca oficial de capacidades de IA diseñadas desde cero. Prompts deterministas optimizados para el ecosistema Google.
+> **English**: Enterprise-grade library of "Clean Room" engineered AI capabilities. Deterministic prompts optimized for Google's ecosystem.
+> **Español**: Biblioteca empresarial de capacidades de IA diseñadas desde cero. Prompts deterministas optimizados para el ecosistema Google.
 
 ---
 
@@ -110,4 +115,4 @@ _Desgloses arquitectónicos de proyectos comerciales privados._
 
 <br clear="left" />
 
-> A collection of R&D artifacts exploring Agentic Workflows and Neural Interfaces.
+> **Ready to deploy autonomous agents? [Let's build.](https://bento.me/luissambranoux)**
