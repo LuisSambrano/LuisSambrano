@@ -1,22 +1,29 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=System+Architect;AI+Product+Designer;Google+Cloud+Engineer;Building+Autonomous+Agents...+%F0%9F%A4%96" alt="Typing SVG" />
   <br />
+  <sub><i>"Ad Astra" 🚀</i></sub>
+  <br />
+  <br />
 
-  <a href="https://bento.me/luissambranoux">
-    <img src="https://img.shields.io/badge/Bento-768CFF?style=for-the-badge&logo=bento&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/luissambranoux">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/luissambrano_ux">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:luissambranoarg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/luissambranoeth">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://bento.me/luissambranoux"><img src="https://img.shields.io/badge/Bento-768CFF?style=for-the-badge&logo=bento&logoColor=white" /></a>
+<a href="https://linkedin.com/in/luissambranoux"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/luissambrano_ux"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://threads.net/luissambrano_ux"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+<a href="https://instagram.com/luissambranoeth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://tiktok.com/@luiss_ux"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<br />
+<a href="https://github.com/LuisSambrano"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://gitlab.com/LuisSambrano"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/28229423/luis-sambrano"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://dribbble.com/LuisSambrano_ux"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+<br />
+<a href="https://t.me/luissambrano_ux"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://open.spotify.com/user/b7xguogijommeh4gccnhi6l53"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+<a href="https://www.strava.com/athletes/lsambrano"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCI0OVzoWZj6V67YPh_48JWw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.pinterest.com/luissambrano_ux"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/LeadingIndependent94"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+
 </div>
 
 <div align="center">
@@ -35,16 +42,28 @@
 ## 📊 Weekly Activity
 
 <!-- STATS:START -->
+
 **📊 Weekly Activity**
+
 - 📦 Total Repositories: 6
 - 🆕 New Repos (7d): 5
 - 📝 Total Gists: 0
 - ✨ New Gists (7d): 0
 - 🛠️ Active Skills: 2
 
-*Last updated: 2026-01-28 03:43 UTC*
+_Last updated: 2026-01-28 03:43 UTC_
+
 <!-- STATS:END -->
 
+<div align="center">
+
+| **🗣️ Languages**                                           | **📍 Timezone**                | **⚡ Interests**                                                |
+| :--------------------------------------------------------- | :----------------------------- | :-------------------------------------------------------------- |
+| Spanish (Native)<br>English (Fluent)<br>Portuguese (Basic) | **Buenos Aires**<br>🇦🇷 (GMT-3) | News & Politics<br>Economics & Blockchain<br>UX/UI & Web Design |
+
+</div>
+
+<br />
 
 ## 🚀 Deployed Portfolio (Proyectos Funcionales)
 
