@@ -14,6 +14,13 @@
   <a href="mailto:luissambranoarg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://instagram.com/luissambranoeth">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>📍 Buenos Aires, Argentina 🇦🇷 • Verified by <a href="https://gravatar.com/luissambranoarg7c19a3e054">Gravatar</a> ✅</sub>
 </div>
 
 ---
