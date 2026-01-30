@@ -43,15 +43,13 @@
 
 <!-- STATS:START -->
 
-**📊 Weekly Activity**
-
 - 📦 Total Repositories: 8
 - 🆕 New Repos (7d): 6
 - 📝 Total Gists: 3
 - ✨ New Gists (7d): 0
 - 🛠️ Active Skills: +250
 
-_Last updated: 2026-01-30 08:10 UTC_
+_Last updated: 2026-01-30 08:30 UTC_
 
 <!-- STATS:END -->
 
@@ -65,15 +63,6 @@ _Last updated: 2026-01-30 08:10 UTC_
 
 <br />
 
-## 🚀 Deployed Portfolio (Proyectos Funcionales)
-
-> _Production-ready systems deployed in the wild._
-
-### 🚧 **Architecting Next-Gen Solutions**
-
-> Currently migrating private enterprise architectures into public-facing demos.
-> _Actualmente migrando arquitecturas privadas a demostraciones públicas._
-
 ---
 
 ## 🏗 Featured Work (Active R&D)
@@ -85,7 +74,7 @@ _Last updated: 2026-01-30 08:10 UTC_
 > **English**: Peer-to-peer remittances system for Venezuela using Celo. Finalist project for LatAm Hubs Buildathon 2026.
 > **Español**: Sistema de remesas peer-to-peer para Venezuela usando Celo. Proyecto finalista para el LatAm Hubs Buildathon 2026.
 
-### [Google Antigravity Workspace](https://github.com/LuisSambrano/antigravity-skills) `[V2.0 ENTERPRISE]`
+### [Google Antigravity Workspace](https://github.com/LuisSambrano/google-antigravity) `[V2.0 ENTERPRISE]`
 
 **Stack**: Google Gemini 1.5 Pro, Agentic Workflows, Multi-Agent Orchestration
 
