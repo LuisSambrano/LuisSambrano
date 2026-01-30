@@ -46,6 +46,7 @@
 **The Intelligent Core** | `Agentic Workflows` `Multi-Agent Orchestration`
 
 > A comprehensive AI Engine featuring **+250 specialized skills** organized into 10 functional categories. Built on a flattened, high-performance architecture with integrated **Rules** and **Workflows** for deterministic agent behavior.
+> _Motor de IA integral con +250 habilidades especializadas. Basado en una arquitectura de alto rendimiento con reglas y flujos de trabajo integrados._
 
 ### [Puente](https://github.com/LuisSambrano/puente)
 
@@ -54,22 +55,26 @@
 **The Financial Bridge** | `TypeScript` `Supabase`
 
 > Peer-to-peer remittances system for Venezuela using Celo. Finalist project for LatAm Hubs Buildathon 2026. Bringing financial sovereignty to the region.
+> _Sistema de remesas P2P para Venezuela usando Celo. Proyecto finalista del Buildathon 2026 aportando soberanía financiera a la región._
 
 <details>
-<summary><b>📂 View Other R&D Projects</b></summary>
+<summary><b>📂 View Other R&D Projects / Ver otros proyectos</b></summary>
 <br />
 
 #### [The Knowledge Graph (TIL)](https://github.com/LuisSambrano/til)
 
 Digital garden for continuous learning. Daily R&D snippets and architectural learnings.
+_Jardín digital para aprendizaje continuo. Desgloses arquitectónicos y fragmentos de R&D._
 
 #### [Dolar API](https://github.com/LuisSambrano/dolar-api)
 
 Real-time financial dashboard tracking exchange rates with high-performance animations.
+_Dashboard financiero en tiempo real para seguimiento de tasas de cambio._
 
 #### [Invoice Zero](https://github.com/LuisSambrano/invoice-zero)
 
 Local-first, privacy-focused financial engine for autonomous professionals.
+_Motor financiero local-first enfocado en la privacidad para profesionales autónomos._
 
 </details>
 
