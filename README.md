@@ -45,13 +45,13 @@
 
 **📊 Weekly Activity**
 
-- 📦 Total Repositories: 6
-- 🆕 New Repos (7d): 5
-- 📝 Total Gists: 0
+- 📦 Total Repositories: 8
+- 🆕 New Repos (7d): 6
+- 📝 Total Gists: 3
 - ✨ New Gists (7d): 0
-- 🛠️ Active Skills: 2
+- 🛠️ Active Skills: +250
 
-_Last updated: 2026-01-28 03:43 UTC_
+_Last updated: 2026-01-30 08:10 UTC_
 
 <!-- STATS:END -->
 
@@ -78,26 +78,42 @@ _Last updated: 2026-01-28 03:43 UTC_
 
 ## 🏗 Featured Work (Active R&D)
 
+### [Puente](https://github.com/LuisSambrano/puente) `[BUILDATHON 2026]`
+
+**Stack**: Celo Blockchain, TypeScript, React Native, Supabase
+
+> **English**: Peer-to-peer remittances system for Venezuela using Celo. Finalist project for LatAm Hubs Buildathon 2026.
+> **Español**: Sistema de remesas peer-to-peer para Venezuela usando Celo. Proyecto finalista para el LatAm Hubs Buildathon 2026.
+
+### [Google Antigravity Workspace](https://github.com/LuisSambrano/antigravity-skills) `[V2.0 ENTERPRISE]`
+
+**Stack**: Google Gemini 1.5 Pro, Agentic Workflows, Multi-Agent Orchestration
+
+> **English**: Enterprise-grade Workspace featuring +250 "Clean Room" engineered AI skills. Categorized architecture for autonomous agent operations.
+> **Español**: Workspace empresarial con +250 habilidades de IA diseñadas desde cero. Arquitectura categorizada para operaciones de agentes autónomos.
+
+### [The Knowledge Graph (TIL)](https://github.com/LuisSambrano/til)
+
+**Stack**: Markdown, Quartz, Obsidian
+
+> **English**: Digital garden for continuous learning. Architectural breakdowns and daily R&D snippets.
+> **Español**: Jardín digital para aprendizaje continuo. Desgloses arquitectónicos y fragmentos diarios de R&D.
+
+---
+
+### [Dolar API](https://github.com/LuisSambrano/dolar-api)
+
+**Stack**: Vite, TypeScript, Tailwind, Lucide
+
+> **English**: Real-time financial dashboard tracking exchange rates with high-performance animations.
+> **Español**: Dashboard financiero en tiempo real para seguimiento de tasas de cambio con animaciones fluidas.
+
 ### [Invoice Zero](https://github.com/LuisSambrano/invoice-zero)
 
 **Stack**: Tauri v2, Rust, SQLite, React 19
 
-> **English**: A local-first, offline-capable invoicing desktop app. No trackers, just code.
-> **Español**: Aplicación de escritorio para facturación. Arquitectura local-first sin rastreadores.
-
-### [Dolar API](https://github.com/LuisSambrano/dolar-api)
-
-**Stack**: Vite, TypeScript, Tailwind
-
-> **English**: Real-time financial dashboard tracking exchange rates with performant animations.
-> **Español**: Dashboard financiero en tiempo real para seguimiento de tasas de cambio.
-
-### [Antigravity Skills](https://github.com/LuisSambrano/antigravity-skills) `[V1.0 ENTERPRISE]`
-
-**Stack**: Python (Forge), Google Gemini 1.5 Pro, AI Agents
-
-> **English**: Enterprise-grade library of "Clean Room" engineered AI capabilities. Deterministic prompts optimized for Google's ecosystem.
-> **Español**: Biblioteca empresarial de capacidades de IA diseñadas desde cero. Prompts deterministas optimizados para el ecosistema Google.
+> **English**: Local-first, privacy-focused financial engine for autonomous professionals.
+> **Español**: Motor financiero local-first y enfocado en la privacidad para profesionales autónomos.
 
 ---
 
@@ -116,32 +132,25 @@ _Desgloses arquitectónicos de proyectos comerciales privados._
 ### 🧠 AI & Agentic Core
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MultiAgent](https://img.shields.io/badge/Multi--Agent-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 📱 Mobile & Native (Apple/Android/PWA)
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celo](https://img.shields.io/badge/Celo-FBCC5C?style=for-the-badge&logo=celo&logoColor=black)
 
 ### 💻 Application Layer
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tauri v2](https://img.shields.io/badge/Tauri_v2-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA1F63?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
