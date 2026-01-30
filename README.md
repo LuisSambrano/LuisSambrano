@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="stats graph" />
 </div>
 
 ## 📊 Quick Insights
@@ -103,7 +103,7 @@ TypeScript • Rust • React Native • Tauri v2 • Next.js
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSambrano&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSambrano&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 <p align="center">
