@@ -39,15 +39,19 @@
 
 ## 🏗 Featured Projects (High-Impact)
 
-### [Google Antigravity Workspace](https://github.com/LuisSambrano/google-antigravity) `[V2.0 ENTERPRISE]`
+### [Google Antigravity Workspace](https://github.com/LuisSambrano/google-antigravity)
 
-**The Intelligent Core** | `Gemini 1.5 Pro` `Agentic Workflows` `Multi-Agent Orchestration`
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![AI](https://img.shields.io/badge/Google-Gemini-8E75B2?style=flat-square&logo=google) ![Engine](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**The Intelligent Core** | `Agentic Workflows` `Multi-Agent Orchestration`
 
 > A comprehensive AI Engine featuring **+250 specialized skills** organized into 10 functional categories. Built on a flattened, high-performance architecture with integrated **Rules** and **Workflows** for deterministic agent behavior.
 
-### [Puente](https://github.com/LuisSambrano/puente) `[BUILDATHON 2026]`
+### [Puente](https://github.com/LuisSambrano/puente)
 
-**The Financial Bridge** | `Celo Blockchain` `TypeScript` `React Native` `Supabase`
+![Status](https://img.shields.io/badge/Status-Buildathon_Finalist-orange?style=flat-square) ![Chain](https://img.shields.io/badge/Network-Celo-FBCC5C?style=flat-square&logo=celo&logoColor=black) ![Tech](https://img.shields.io/badge/Stack-React_Native-61DAFB?style=flat-square&logo=react)
+
+**The Financial Bridge** | `TypeScript` `Supabase`
 
 > Peer-to-peer remittances system for Venezuela using Celo. Finalist project for LatAm Hubs Buildathon 2026. Bringing financial sovereignty to the region.
 
