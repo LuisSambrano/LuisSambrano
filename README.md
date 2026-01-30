@@ -17,8 +17,14 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/stars/LuisSambrano?style=for-the-badge&logo=github&labelColor=24292e&color=FF4B1F" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/LuisSambrano?style=for-the-badge&logo=github&labelColor=24292e&color=FF4B1F" alt="Followers" />
+  <img src="https://img.shields.io/github/directory-file-count/LuisSambrano/google-antigravity?style=for-the-badge&logo=google-cloud&label=AI%20Skills&labelColor=24292e&color=FF4B1F" alt="Skills" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&cache_seconds=1800" height="170" alt="GitHub Streak" />
 </div>
 
 ## 📊 Quick Insights
@@ -104,7 +110,7 @@ TypeScript • Rust • React Native • Tauri v2 • Next.js
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSambrano&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSambrano&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="Languages Graph" />
 </div>
 
 <p align="center">
