@@ -106,7 +106,7 @@ TypeScript • Rust • React Native • Tauri v2 • Next.js
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSambrano&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" height="150" alt="Languages Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisSambrano&theme=radical" height="150" alt="Languages Graph" />
 </div>
 
 <p align="center">
