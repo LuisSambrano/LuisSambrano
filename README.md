@@ -89,8 +89,8 @@ _Last updated: 2026-01-30 08:10 UTC_
 
 **Stack**: Google Gemini 1.5 Pro, Agentic Workflows, Multi-Agent Orchestration
 
-> **English**: Enterprise-grade Workspace featuring +250 "Clean Room" engineered AI skills. Categorized architecture for autonomous agent operations.
-> **Español**: Workspace empresarial con +250 habilidades de IA diseñadas desde cero. Arquitectura categorizada para operaciones de agentes autónomos.
+> **English**: A comprehensive AI Engine featuring **+250 specialized skills** organized into 10 functional categories (Security, AI Agents, Automation, WebDev, and more). Built on a flattened, high-performance architecture with integrated **Rules** and **Workflows** for deterministic agent behavior.
+> **Español**: Motor de IA integral con **+250 habilidades especializadas** organizadas en 10 categorías funcionales. Basado en una arquitectura aplanada de alto rendimiento con **Reglas** y **Flujos de Trabajo** integrados para un comportamiento determinista de los agentes.
 
 ### [The Knowledge Graph (TIL)](https://github.com/LuisSambrano/til)
 
