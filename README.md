@@ -1,5 +1,11 @@
+<!--
+  Luis Sambrano | AI System Architect & Google Cloud Engineer.
+  Specializing in Autonomous Agents, Multi-Agent Orchestration, and Enterprise AI Workspaces.
+  Especialista en Agentes Autónomos, Orquestación Multi-Agente y Espacios de Trabajo de IA Empresarial.
+  Stack: Python, TypeScript, React Native, Gemini Pro, LangChain, Google Cloud Platform.
+-->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=System+Architect;AI+Product+Designer;Google+Cloud+Engineer;Building+Autonomous+Agents...+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=System+Architect;AI+Product+Designer;Google+Cloud+Engineer;Building+Autonomous+Agents...+%F0%9F%A4%96" alt="Luis Sambrano: System Architect, AI Product Designer, Google Cloud Engineer building Autonomous Agents" />
   <br />
   <sub><i>"Ad Astra" 🚀</i></sub>
   <p align="center">
@@ -12,6 +18,8 @@
 
 <div align="center">
   <sub>📍 Buenos Aires, Argentina 🇦🇷 • Verified by <a href="https://gravatar.com/luissambranoarg7c19a3e054">Gravatar</a> ✅</sub>
+  <br />
+  <sub>⚡ <i>Architecting the next generation of Autonomous Intelligence</i> ⚡</sub>
 </div>
 
 ---
