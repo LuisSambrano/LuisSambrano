@@ -56,8 +56,8 @@
 
 **The Intelligent Core** | `Agentic Workflows` `Multi-Agent Orchestration`
 
-> A comprehensive AI Engine featuring **+250 specialized skills** organized into 10 functional categories. Built on a flattened, high-performance architecture with integrated **Rules** and **Workflows** for deterministic agent behavior.
-> _Motor de IA integral con +250 habilidades especializadas. Basado en una arquitectura de alto rendimiento con reglas y flujos de trabajo integrados._
+> A comprehensive AI Engine featuring **+250 specialized skills** and now **UI/UX Pro Max** (Visual Intelligence). Built on a flattened, high-performance architecture with integrated **Rules** and **Workflows** for deterministic agent behavior.
+> _Motor de IA integral con +250 habilidades y nueva Inteligencia Visual. Basado en una arquitectura de alto rendimiento con reglas y flujos de trabajo integrados._
 
 ### [Puente](https://github.com/LuisSambrano/puente)
 
