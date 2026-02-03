@@ -54,38 +54,38 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![AI](https://img.shields.io/badge/Google-Gemini-8E75B2?style=flat-square&logo=google) ![Engine](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**The Intelligent Core** | `Agentic Workflows` `Multi-Agent Orchestration`
+**AI Capability Framework** | `Agentic Workflows` `Multi-Agent Orchestration`
 
-> A comprehensive AI Engine featuring **+250 specialized skills** and now **UI/UX Pro Max** (Visual Intelligence). Built on a flattened, high-performance architecture with integrated **Rules** and **Workflows** for deterministic agent behavior.
-> _Motor de IA integral con +250 habilidades y nueva Inteligencia Visual. Basado en una arquitectura de alto rendimiento con reglas y flujos de trabajo integrados._
+> AI capability framework for Google Gemini featuring 250+ specialized skills and UI/UX intelligence. Built on a modular architecture with integrated rules and workflows for deterministic agent behavior.
+> _Framework de capacidades de IA para Google Gemini con más de 250 habilidades especializadas e inteligencia UI/UX. Arquitectura modular con reglas y flujos de trabajo integrados._
 
 ### [Puente](https://github.com/LuisSambrano/puente)
 
 ![Status](https://img.shields.io/badge/Status-Buildathon_Finalist-orange?style=flat-square) ![Chain](https://img.shields.io/badge/Network-Celo-FBCC5C?style=flat-square&logo=celo&logoColor=black) ![Tech](https://img.shields.io/badge/Stack-React_Native-61DAFB?style=flat-square&logo=react)
 
-**The Financial Bridge** | `TypeScript` `Supabase`
+**P2P Remittance Platform** | `TypeScript` `Supabase` `Celo`
 
-> Peer-to-peer remittances system for Venezuela using Celo. Finalist project for LatAm Hubs Buildathon 2026. Bringing financial sovereignty to the region.
-> _Sistema de remesas P2P para Venezuela usando Celo. Proyecto finalista del Buildathon 2026 aportando soberanía financiera a la región._
+> P2P remittance platform for Latin America built on Celo blockchain. Finalist project for LatAm Hubs Buildathon 2026.
+> _Plataforma de remesas P2P para América Latina construida sobre blockchain Celo. Proyecto finalista del Buildathon 2026._
 
 <details>
 <summary><b>📂 View Other R&D Projects / Ver otros proyectos</b></summary>
 <br />
 
-#### [The Knowledge Graph (TIL)](https://github.com/LuisSambrano/til)
+#### [TIL (Today I Learned)](https://github.com/LuisSambrano/til)
 
-Digital garden for continuous learning. Daily R&D snippets and architectural learnings.
-_Jardín digital para aprendizaje continuo. Desgloses arquitectónicos y fragmentos de R&D._
+Digital garden documenting daily learnings and technical explorations.
+_Jardín digital documentando aprendizajes diarios y exploraciones técnicas._
 
 #### [Dolar API](https://github.com/LuisSambrano/dolar-api)
 
-Real-time financial dashboard tracking exchange rates with high-performance animations.
-_Dashboard financiero en tiempo real para seguimiento de tasas de cambio._
+Real-time Venezuelan exchange rate dashboard with glassmorphism design.
+_Dashboard de tasas de cambio venezolanas en tiempo real con diseño glassmorphism._
 
 #### [Invoice Zero](https://github.com/LuisSambrano/invoice-zero)
 
-Local-first, privacy-focused financial engine for autonomous professionals.
-_Motor financiero local-first enfocado en la privacidad para profesionales autónomos._
+Privacy-focused local-first invoice automation built with Tauri and React.
+_Automatización de facturas local-first enfocada en privacidad, construida con Tauri y React._
 
 </details>
 
@@ -122,5 +122,5 @@ TypeScript • Rust • React Native • Tauri v2 • Next.js
 </p>
 
 <div align="center">
-  <b>[Let's build the future of autonomous systems.](https://bento.me/luissambranoux)</b>
+  <b>[Connect with me](https://bento.me/luissambranoux)</b>
 </div>
