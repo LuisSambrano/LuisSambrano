@@ -10,7 +10,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/LuisSambrano">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Autonomous+AI+Agents+🤖;Architecting+Multi-Agent+Systems+🧠;Google+Cloud+Engineer+☁️;Open+Source+Contributor+💙" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Autonomous+AI+Agents+🤖;Architecting+Multi-Agent+Systems+🧠;Google+Cloud+Engineer+☁️;Open+Source+Contributor+💙" alt="Typing Animation"/>
   </a>
 
 <br/><br/>
@@ -22,7 +22,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/placeholder" title="Join Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" width="32"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/luissambranoux" title="LinkedIn"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32"/></a>
+
+  <!-- LinkedIn (Using reliable Imgur source or Shields badge hack) -->
+
+<a href="https://linkedin.com/in/luissambranoux" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/luissambrano_ux" title="X / Twitter"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="32"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -78,13 +81,13 @@
 
 <br/>
 
-<!-- COLLAPSIBLE: TECH STACK -->
+<!-- COLLAPSIBLE: TECH STACK (Fixed: removed langchain, ensuring valid URL) -->
 <details>
   <summary><h2>🛠️ Tech Stack & Skills</h2></summary>
   
   <div align="center">
     <h3>🤖 AI & Orchestration</h3>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,langchain" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
     <br/><br/>
     
     <h3>💻 Full Stack</h3>
@@ -99,15 +102,13 @@
 
 <br/>
 
-<!-- COLLAPSIBLE: STATS -->
+<!-- COLLAPSIBLE: STATS (Fixed: removed flaky cards) -->
 <details>
   <summary><h2>📊 GitHub Activity</h2></summary>
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&background=0D1117" height="150" />
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisSambrano&theme=radical" height="150" />
     <br/>
     <!-- SNAKE ANIMATION -->
     <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
