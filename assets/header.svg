@@ -63,30 +63,17 @@
     </circle>
   </g>
   
-  <!-- Waving line at bottom -->
-  <path fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2">
-    <animate attributeName="d" 
-      values="M0,180 Q200,160 400,180 T800,180 L800,200 L0,200 Z;
-              M0,180 Q200,200 400,180 T800,180 L800,200 L0,200 Z;
-              M0,180 Q200,160 400,180 T800,180 L800,200 L0,200 Z" 
-      dur="5s" repeatCount="indefinite"/>
-  </path>
-  
-  <!-- Main Title -->
-  <text x="50%" y="75" text-anchor="middle" fill="#fff" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" filter="url(#glow)">
-    Luis Sambrano
-  </text>
+  <!-- Main Title with aligned brackets: < Luis Sambrano /> -->
+  <!-- Using a single text group for perfect alignment -->
+  <g text-anchor="middle" filter="url(#glow)">
+    <!-- Opening bracket < -->
+    <text x="400" y="75" font-family="monospace, Fira Code, Consolas" font-size="48" font-weight="700">
+      <tspan fill="#2196F3">&lt;</tspan><tspan fill="#fff" dx="8"> Luis Sambrano </tspan><tspan fill="#2196F3">/&gt;</tspan>
+    </text>
+  </g>
   
   <!-- Subtitle -->
   <text x="50%" y="120" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="400">
     AI Architect • Autonomous Agents • Google Cloud
-  </text>
-  
-  <!-- Code brackets decoration -->
-  <text x="15%" y="100" fill="#2196F3" font-family="monospace" font-size="60" opacity="0.3">
-    &lt;
-  </text>
-  <text x="85%" y="100" fill="#2196F3" font-family="monospace" font-size="60" opacity="0.3">
-    /&gt;
   </text>
 </svg>
