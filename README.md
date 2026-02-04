@@ -26,7 +26,11 @@
 
 <!-- FEATURED PROJECTS -->
 
+<div align="center">
+
 ## 🚀 Featured Projects
+
+</div>
 
   <table>
     <tr>
@@ -71,7 +75,11 @@
 
 <!-- TECH STACK & SKILLS -->
 
+<div align="center">
+
 ## 🛠️ Tech Stack & Skills
+
+</div>
 
 <div align="center">
 <h3>🤖 AI & Orchestration</h3>
@@ -114,7 +122,11 @@
 
 <!-- GITHUB ACTIVITY -->
 
+<div align="center">
+
 ## 📊 GitHub Activity
+
+</div>
 
   <div align="center">
     <!-- Stats Card Removed (Unstable) -->
