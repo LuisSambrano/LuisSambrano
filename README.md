@@ -26,7 +26,7 @@
 
 <!-- NEWS FEED SECTION -->
 <div align="center">
-  <h2>⚡ Recent Intel & Updates</h2>
+  <h2>⚡ Recent Updates</h2>
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </div>
