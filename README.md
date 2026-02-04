@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luis%20Sambrano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Architect%20•%20Autonomous%20Agents%20•%20Google%20Cloud&descSize=18&descAlignY=55"/>
+<img src="./assets/header.svg" alt="Luis Sambrano - AI Architect" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents+🤖;Architecting+Multi-Agent+Systems+🧠;Google+Cloud+Engineer+☁️;Open+Source+Contributor+💙" alt="Typing Animation"/>
