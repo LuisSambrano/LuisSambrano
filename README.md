@@ -5,22 +5,20 @@
 
 <div align="center">
 
-  <!-- HERO SECTION -->
+  <!-- HERO SECTION: DYNAMIC ATMOSPHERE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%" />
+
+  <!-- TRANSPARENT TITLE (KEPT AS REQUESTED) -->
   <img src="./assets/header.svg" alt="Luis Sambrano" width="800" />
-
-  <!-- TYPING ANIMATION (Removed for stability, SVG Header has subtitle) -->
-  <br/>
-
-<br/><br/>
 
   <!-- SOCIAL ICONS REMOVED -->
   <br/>
 
   <!-- AUTHORITY STATS -->
 
-<a href="https://github.com/LuisSambrano?tab=repositories"><img src="https://img.shields.io/github/stars/LuisSambrano?style=flat-square&logo=github&label=Stars&color=1F222E"/></a>
-<a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/github/followers/LuisSambrano?style=flat-square&logo=github&label=Followers&color=1F222E"/></a>
-<a href="https://github.com/LuisSambrano"><img src="https://img.shields.io/github/v/release/LuisSambrano/antigravity-config?style=flat-square&logo=github&label=Latest%20Release&color=1F222E"/></a>
+<a href="https://github.com/LuisSambrano?tab=repositories"><img src="https://img.shields.io/github/stars/LuisSambrano?style=for-the-badge&logo=github&label=Stars&color=yellow"/></a>
+<a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/github/followers/LuisSambrano?style=for-the-badge&logo=github&label=Followers&color=blue"/></a>
+<a href="https://github.com/LuisSambrano"><img src="https://img.shields.io/github/v/release/LuisSambrano/antigravity-config?style=for-the-badge&logo=github&label=Latest%20Release&color=green"/></a>
 
 </div>
 
@@ -130,7 +128,9 @@
 
 <br/>
 
-<!-- FOOTER -->
+<!-- FOOTER: DYNAMIC CLOSURE -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <br/>
   <sub>⭐ <a href="https://github.com/LuisSambrano/antigravity-config">Star my projects</a> if you find them useful!</sub>
 </div>
