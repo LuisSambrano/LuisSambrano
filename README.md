@@ -70,10 +70,10 @@
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/venezuela-news-app">
-          <img src="https://img.shields.io/badge/AI_News-Intelligence-green?style=for-the-badge&logo=google-news"/>
+          <img src="https://img.shields.io/badge/M%26TVenezuela-Memory_%26_Truth-green?style=for-the-badge&logo=google-news"/>
         </a>
         <br/><br/>
-        <b>AI News Intelligence</b> platform with automated ingestion and synthesis.
+        <b>M&TVenezuela</b>: AI-driven platform for historical memory and truth verification.
       </td>
     </tr>
   </table>
