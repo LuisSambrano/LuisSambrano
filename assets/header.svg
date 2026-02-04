@@ -1,79 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid slice">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" preserveAspectRatio="xMidYMid slice">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29">
-        <animate attributeName="stop-color" values="#0f0c29;#302b63;#24243e;#0f0c29" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" style="stop-color:#302b63">
-        <animate attributeName="stop-color" values="#302b63;#24243e;#0f0c29;#302b63" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#24243e">
-        <animate attributeName="stop-color" values="#24243e;#0f0c29;#302b63;#24243e" dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <style>
+      .bracket { fill: #2196F3; font-family: monospace, Consolas, 'Courier New'; font-weight: bold; opacity: 0.8; }
+      .name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; filter: url(#glow); }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 16px; }
+      
+      /* Dark Mode (Default) */
+      .name { fill: #ffffff; }
+      .subtitle { fill: #cccccc; }
+      
+      /* Light Mode */
+      @media (prefers-color-scheme: light) {
+        .name { fill: #333333; }
+        .subtitle { fill: #555555; }
+      }
+    </style>
   </defs>
   
-  <!-- Background with animated gradient -->
-  <rect width="100%" height="100%" fill="url(#grad)"/>
-  
-  <!-- Animated particles/stars -->
-  <g fill="#fff" opacity="0.6">
-    <circle cx="50" cy="30" r="1.5">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="150" cy="60" r="1">
-      <animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="250" cy="25" r="1.2">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="350" cy="80" r="1">
-      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="450" cy="40" r="1.5">
-      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="550" cy="70" r="1">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="650" cy="35" r="1.3">
-      <animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="750" cy="55" r="1">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="100" cy="120" r="1">
-      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="150" r="1.2">
-      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="500" cy="130" r="1">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="700" cy="160" r="1.1">
-      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <!-- Main Title with aligned brackets: < Luis Sambrano /> -->
-  <!-- Using a single text group for perfect alignment -->
-  <g text-anchor="middle" filter="url(#glow)">
-    <!-- Opening bracket < -->
-    <text x="400" y="75" font-family="monospace, Fira Code, Consolas" font-size="48" font-weight="700">
-      <tspan fill="#2196F3">&lt;</tspan><tspan fill="#fff" dx="8"> Luis Sambrano </tspan><tspan fill="#2196F3">/&gt;</tspan>
+  <!-- Content Group centered -->
+  <g text-anchor="middle">
+    <!-- Main Title: < Luis Sambrano /> -->
+    <text x="400" y="80" font-size="52">
+      <tspan class="bracket">&lt;</tspan>
+      <tspan class="name" dx="10">Luis Sambrano</tspan>
+      <tspan class="bracket" dx="10">/&gt;</tspan>
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="400" y="120" class="subtitle">
+      AI Architect • Autonomous Agents • Google Cloud
     </text>
   </g>
-  
-  <!-- Subtitle -->
-  <text x="50%" y="120" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="400">
-    AI Architect • Autonomous Agents • Google Cloud
-  </text>
 </svg>

@@ -1,190 +1,122 @@
 <!--
   Luis Sambrano | AI System Architect & Autonomous Agent Builder
   Specializing in Agentic AI, Multi-Agent Orchestration, and Enterprise AI Workspaces.
-  Stack: Python, TypeScript, Next.js, Gemini Pro, LangGraph, Google Cloud Platform.
 -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="./assets/header.svg" alt="Luis Sambrano - AI Architect" width="100%"/>
+  <!-- HERO SECTION -->
+  <img src="./assets/header.svg" alt="Luis Sambrano" width="800" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents+🤖;Architecting+Multi-Agent+Systems+🧠;Google+Cloud+Engineer+☁️;Open+Source+Contributor+💙" alt="Typing Animation"/>
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-
-<a href="https://bento.me/luissambranoux"><img src="https://img.shields.io/badge/Portfolio-FF5757?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/luissambranoux"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/luissambrano_ux"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://t.me/luissambrano_ux"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://threads.net/luissambrano_ux"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
-<a href="https://buymeacoffee.com/luissambrano_ux"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
-
-<br/><br/>
-
-<!-- STATS BADGES -->
-
-<a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/github/followers/LuisSambrano?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"/></a>
-<a href="https://github.com/LuisSambrano?tab=repositories"><img src="https://img.shields.io/badge/Repos-8+-blue?style=for-the-badge&logo=github" alt="Repos"/></a>
-<a href="https://github.com/LuisSambrano/antigravity-config"><img src="https://img.shields.io/badge/AI%20Skills-100+-purple?style=for-the-badge&logo=brain" alt="AI Skills"/></a>
-
-<br/>
-
-<!-- LOCATION & LANGUAGES -->
-
-<sub>📍 Buenos Aires, Argentina 🇦🇷 • GMT-3</sub>
-<br/>
-<sub>🗣️ Español 🇪🇸 • English 🇺🇸 • Português 🇧🇷</sub>
-
-</div>
-
----
-
-<!-- LANGUAGE SELECTOR -->
-<div align="center">
-  <strong>🌐 Choose your language / Elige tu idioma / Escolha seu idioma:</strong>
-  <br/><br/>
-  <a href="#-about-me">🇺🇸 English</a> •
-  <a href="#-sobre-mí">🇪🇸 Español</a> •
-  <a href="#-sobre-mim">🇧🇷 Português</a>
-</div>
-
----
-
-## 🇺🇸 About Me
-
-I'm an **AI System Architect** specializing in **Autonomous Agents** and **Multi-Agent Orchestration**.
-
-I build AI systems that think, plan, and act independently — from intelligent coding assistants to enterprise-grade automation pipelines.
-
-### 🚀 What I Do
-
-- 🤖 **Autonomous Agents** — Self-guided AI systems that complete complex tasks
-- 🧠 **Multi-Agent Orchestration** — LangGraph, CrewAI, parallel agent patterns
-- ☁️ **Google Cloud Engineering** — Vertex AI, Cloud Functions, Enterprise AI
-- 💻 **Full-Stack Development** — Next.js, React Native, TypeScript, Supabase
-
-### 📦 Featured Projects
-
-| Project                                                                      | Description                       | Tech               |
-| ---------------------------------------------------------------------------- | --------------------------------- | ------------------ |
-| [**Antigravity Config**](https://github.com/LuisSambrano/antigravity-config) | 100+ AI skills for Gemini IDE     | AI, Python         |
-| [**Puente**](https://github.com/LuisSambrano/puente-fintech-dapp)            | P2P Remittance on Celo Blockchain | React Native, Celo |
-| [**Venezuela News**](https://github.com/LuisSambrano/venezuela-news-app)     | AI-powered news intelligence      | Next.js, Supabase  |
-
-<div align="center">
-  <a href="https://github.com/LuisSambrano?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github" alt="View All Projects"/>
+  <!-- TYPING ANIMATION -->
+  <a href="https://github.com/LuisSambrano">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Autonomous+AI+Agents+🤖;Architecting+Multi-Agent+Systems+🧠;Google+Cloud+Engineer+☁️;Open+Source+Contributor+💙" alt="Typing Animation"/>
   </a>
-</div>
-
----
-
-## 🇪🇸 Sobre Mí
-
-Soy un **Arquitecto de Sistemas de IA** especializado en **Agentes Autónomos** y **Orquestación Multi-Agente**.
-
-Construyo sistemas de IA que piensan, planifican y actúan de forma independiente — desde asistentes de código inteligentes hasta pipelines de automatización empresarial.
-
-### 🚀 Lo Que Hago
-
-- 🤖 **Agentes Autónomos** — Sistemas de IA auto-guiados que completan tareas complejas
-- 🧠 **Orquestación Multi-Agente** — LangGraph, CrewAI, patrones de agentes paralelos
-- ☁️ **Ingeniería Google Cloud** — Vertex AI, Cloud Functions, IA Empresarial
-- 💻 **Desarrollo Full-Stack** — Next.js, React Native, TypeScript, Supabase
-
-### 📦 Proyectos Destacados
-
-| Proyecto                                                                     | Descripción                         | Tech               |
-| ---------------------------------------------------------------------------- | ----------------------------------- | ------------------ |
-| [**Antigravity Config**](https://github.com/LuisSambrano/antigravity-config) | 100+ habilidades IA para Gemini IDE | AI, Python         |
-| [**Puente**](https://github.com/LuisSambrano/puente-fintech-dapp)            | Remesas P2P en Blockchain Celo      | React Native, Celo |
-| [**Venezuela News**](https://github.com/LuisSambrano/venezuela-news-app)     | Inteligencia de noticias con IA     | Next.js, Supabase  |
-
----
-
-## 🇧🇷 Sobre Mim
-
-Sou um **Arquiteto de Sistemas de IA** especializado em **Agentes Autônomos** e **Orquestração Multi-Agente**.
-
-Construo sistemas de IA que pensam, planejam e agem de forma independente — desde assistentes de código inteligentes até pipelines de automação empresarial.
-
-### 🚀 O Que Faço
-
-- 🤖 **Agentes Autônomos** — Sistemas de IA auto-guiados que completam tarefas complexas
-- 🧠 **Orquestração Multi-Agente** — LangGraph, CrewAI, padrões de agentes paralelos
-- ☁️ **Engenharia Google Cloud** — Vertex AI, Cloud Functions, IA Empresarial
-- 💻 **Desenvolvimento Full-Stack** — Next.js, React Native, TypeScript, Supabase
-
-### 📦 Projetos em Destaque
-
-| Projeto                                                                      | Descrição                           | Tech               |
-| ---------------------------------------------------------------------------- | ----------------------------------- | ------------------ |
-| [**Antigravity Config**](https://github.com/LuisSambrano/antigravity-config) | 100+ habilidades IA para Gemini IDE | AI, Python         |
-| [**Puente**](https://github.com/LuisSambrano/puente-fintech-dapp)            | Remessas P2P em Blockchain Celo     | React Native, Celo |
-| [**Venezuela News**](https://github.com/LuisSambrano/venezuela-news-app)     | Inteligência de notícias com IA     | Next.js, Supabase  |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<!-- AI & AGENTS -->
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-<!-- WEB DEV -->
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-
-<!-- CLOUD & DB -->
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&background=0D1117" height="160" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisSambrano&theme=radical" height="150" alt="Languages"/>
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect!
-
-**Open to collaborations on AI agents, agentic workflows, and open source projects.**
-
-<a href="https://bento.me/luissambranoux"><img src="https://img.shields.io/badge/Connect%20With%20Me-FF5757?style=for-the-badge&logo=linktree&logoColor=white" alt="Connect"/></a>
 
 <br/><br/>
 
-<sub>⭐ If you find my work useful, consider following me and starring my repos!</sub>
+  <!-- SOCIAL ICONS (THE FUNNEL) -->
+  <!-- Priority: Community & Support -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<a href="https://buymeacoffee.com/luissambranoux" title="Join my Private Community"><img src="https://cdn.simpleicons.org/buymeacoffee/FFDD00" width="32"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/placeholder" title="Join Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" width="32"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/luissambranoux" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="32"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/luissambrano_ux" title="X / Twitter"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="32"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://bento.me/luissambranoux" title="Portfolio"><img src="https://cdn.simpleicons.org/bento/4285F4" width="32"/></a>
 
+<br/><br/>
+
+  <!-- AUTHORITY STATS -->
+
+<a href="https://github.com/LuisSambrano?tab=repositories"><img src="https://img.shields.io/github/stars/LuisSambrano?style=flat-square&logo=github&label=Stars&color=1F222E"/></a>
+<a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/github/followers/LuisSambrano?style=flat-square&logo=github&label=Followers&color=1F222E"/></a>
+<a href="https://github.com/LuisSambrano"><img src="https://img.shields.io/github/v/release/LuisSambrano/antigravity-config?style=flat-square&logo=github&label=Latest%20Release&color=1F222E"/></a>
+
+</div>
+
+<br/>
+
+<!-- COLLAPSIBLE: FEATURED PROJECTS -->
+<details open>
+  <summary><h2>🚀 Featured Projects</h2></summary>
+
+  <table>
+    <tr>
+      <th width="300">Antigravity Config</th>
+      <th width="300">Puente Fintech</th>
+      <th width="300">Venezuela News</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/LuisSambrano/antigravity-config">
+          <img src="https://img.shields.io/badge/AI_Workspaces-100%2B-purple?style=for-the-badge&logo=brain"/>
+        </a>
+        <br/><br/>
+        The ultimate <b>Gemini/Cursor configuration</b> for AI Agents. 100+ skills, Prompts, and Rules.
+      </td>
+      <td align="center">
+        <a href="https://github.com/LuisSambrano/puente-fintech-dapp">
+          <img src="https://img.shields.io/badge/Blockchain-Fintech-blue?style=for-the-badge&logo=ethereum"/>
+        </a>
+        <br/><br/>
+        <b>P2P Remittances</b> on Celo Blockchain. React Native + Solidity.
+      </td>
+      <td align="center">
+        <a href="https://github.com/LuisSambrano/venezuela-news-app">
+          <img src="https://img.shields.io/badge/AI_News-Intelligence-green?style=for-the-badge&logo=google-news"/>
+        </a>
+        <br/><br/>
+        <b>AI News Intelligence</b> platform with automated ingestion and synthesis.
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br/>
+
+<!-- COLLAPSIBLE: TECH STACK -->
+<details>
+  <summary><h2>🛠️ Tech Stack & Skills</h2></summary>
+  
+  <div align="center">
+    <h3>🤖 AI & Orchestration</h3>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,langchain" />
+    <br/><br/>
+    
+    <h3>💻 Full Stack</h3>
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,supabase,postgresql,graphql" />
+    <br/><br/>
+
+    <h3>☁️ Cloud & DevOps</h3>
+    <img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,docker,git,linux" />
+
+  </div>
+</details>
+
+<br/>
+
+<!-- COLLAPSIBLE: STATS -->
+<details>
+  <summary><h2>📊 GitHub Activity</h2></summary>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&background=0D1117" height="150" />
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisSambrano&theme=radical" height="150" />
+    <br/>
+    <!-- SNAKE ANIMATION -->
+    <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  </div>
+</details>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+  <sub>⭐ <a href="https://github.com/LuisSambrano/antigravity-config">Star my projects</a> if you find them useful!</sub>
 </div>
