@@ -8,10 +8,8 @@
   <!-- HERO SECTION -->
   <img src="./assets/header.svg" alt="Luis Sambrano" width="800" />
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://github.com/LuisSambrano">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Autonomous+AI+Agents+🤖;Architecting+Multi-Agent+Systems+🧠;Google+Cloud+Engineer+☁️;Open+Source+Contributor+💙" alt="Typing Animation"/>
-  </a>
+  <!-- TYPING ANIMATION (Removed for stability, SVG Header has subtitle) -->
+  <br/>
 
 <br/><br/>
 
@@ -87,15 +85,31 @@
   
   <div align="center">
     <h3>🤖 AI & Orchestration</h3>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
     <br/><br/>
     
     <h3>💻 Full Stack</h3>
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,supabase,postgresql,graphql" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
     <br/><br/>
 
     <h3>☁️ Cloud & DevOps</h3>
-    <img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,docker,git,linux" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
   </div>
 </details>
@@ -107,7 +121,7 @@
   <summary><h2>📊 GitHub Activity</h2></summary>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
+    <!-- Stats Card Removed (Unstable) -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&background=0D1117" height="150" />
     <br/>
     <!-- SNAKE ANIMATION -->
