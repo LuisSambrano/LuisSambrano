@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/placeholder" title="Join Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" width="32"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/luissambranoux" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="32"/></a>
+<a href="https://linkedin.com/in/luissambranoux" title="LinkedIn"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/luissambrano_ux" title="X / Twitter"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="32"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
