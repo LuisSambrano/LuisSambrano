@@ -123,6 +123,24 @@
     <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
   </div>
 
+---
+
+<!-- CTA SECTION -->
+<div align="center">
+
+## 🚀 Let's Build the Future
+
+I'm currently looking for **ambitious projects** and **AI-driven collaborations**.  
+_If you have a vision, let's turn it into code._
+
+<p align="center">
+  <a href="https://t.me/luissambrano_ux"><img src="https://img.shields.io/badge/🤝_Hire_Me-Telegram-1DA1F2?style=for-the-badge&logo=telegram" alt="Hire Me"/></a>
+  <a href="https://github.com/LuisSambrano/antigravity-config"><img src="https://img.shields.io/badge/🌌_Antigravity-Star_Repo-yellow?style=for-the-badge&logo=github" alt="Star Antigravity"/></a>
+  <a href="https://x.com/luissambrano_ux"><img src="https://img.shields.io/badge/🐦_Follow_Me-Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter"/></a>
+</p>
+
+</div>
+
 <br/>
 
 <!-- FOOTER: DYNAMIC CLOSURE -->
