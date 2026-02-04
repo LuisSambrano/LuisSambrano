@@ -30,9 +30,10 @@
 
   <table>
     <tr>
-      <th width="300">Antigravity Config</th>
-      <th width="300">Puente Fintech</th>
-      <th width="300">Venezuela News</th>
+      <th width="200">Antigravity Config</th>
+      <th width="200">Puente Fintech</th>
+      <th width="200">Venezuela News</th>
+      <th width="200">Badge Scanner</th>
     </tr>
     <tr>
       <td align="center">
