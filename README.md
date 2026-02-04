@@ -139,29 +139,21 @@ Construo sistemas de IA que pensam, planejam e agem de forma independente — de
 
 <div align="center">
 
-#### 🧠 AI & Languages
+<!-- AI -->
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust&theme=dark" alt="Languages"/>
-</p>
+<!-- WEB -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 
-#### ⚛️ Frontend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=dark" alt="Frontend"/>
-</p>
-
-#### ☁️ Cloud & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,supabase,vercel,postgres&theme=dark" alt="Cloud"/>
-</p>
-
-#### 🛠️ Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/>
-</p>
+<!-- CLOUD -->
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 
 </div>
 
