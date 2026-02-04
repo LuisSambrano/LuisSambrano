@@ -139,22 +139,26 @@ Construo sistemas de IA que pensam, planejam e agem de forma independente — de
 
 <div align="center">
 
-<!-- AI & Languages -->
+#### 🧠 AI & Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust&theme=dark" alt="Languages"/>
 </p>
 
-<!-- Frameworks & Libraries -->
+#### ⚛️ Frontend & Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&theme=dark" alt="Frontend"/>
 </p>
 
-<!-- Cloud & Backend -->
+#### ☁️ Cloud & Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,supabase,vercel,postgres&theme=dark" alt="Cloud"/>
 </p>
 
-<!-- Tools -->
+#### 🛠️ Tools & Workflow
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/>
 </p>
