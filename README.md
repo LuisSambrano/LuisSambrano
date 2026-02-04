@@ -24,9 +24,9 @@
 
 <br/>
 
-<!-- COLLAPSIBLE: FEATURED PROJECTS -->
-<details open>
-  <summary><h2>🚀 Featured Projects</h2></summary>
+<!-- FEATURED PROJECTS -->
+
+## 🚀 Featured Projects
 
   <table>
     <tr>
@@ -65,15 +65,14 @@
       </td>
     </tr>
   </table>
-</details>
 
 <br/>
 
-<!-- COLLAPSIBLE: TECH STACK (Fixed: removed langchain, ensuring valid URL) -->
-<details>
-  <summary><h2>🛠️ Tech Stack & Skills</h2></summary>
-  
-  <div align="center">
+<!-- TECH STACK & SKILLS -->
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
 <h3>🤖 AI & Orchestration</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -101,7 +100,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </div>
-</details>
 
 <br/>
 
@@ -113,10 +111,10 @@
 
 <br/>
 
-<!-- COLLAPSIBLE: STATS (Fixed: removed flaky cards) -->
-<details>
-  <summary><h2>📊 GitHub Activity</h2></summary>
-  
+<!-- GITHUB ACTIVITY -->
+
+## 📊 GitHub Activity
+
   <div align="center">
     <!-- Stats Card Removed (Unstable) -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&background=0D1117" height="150" />
@@ -124,7 +122,6 @@
     <!-- SNAKE ANIMATION -->
     <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
   </div>
-</details>
 
 <br/>
 
