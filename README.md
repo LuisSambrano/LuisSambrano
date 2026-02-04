@@ -58,6 +58,13 @@
         <br/><br/>
         <b>M&TVenezuela</b>: AI-driven platform for historical memory and truth verification.
       </td>
+      <td align="center">
+        <a href="https://github.com/LuisSambrano/badge-scanner">
+          <img src="https://img.shields.io/badge/Badge_Scanner-Gamification-orange?style=for-the-badge&logo=github"/>
+        </a>
+        <br/><br/>
+        <b>Badge Scanner</b>: Detect unused GitHub Achievements & Stats. Next.js 14 + GraphQL.
+      </td>
     </tr>
   </table>
 </details>
@@ -97,6 +104,14 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </div>
 </details>
+
+<br/>
+
+<!-- DYNAMIC STATS (Auto-Updates) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSambrano&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
+</div>
 
 <br/>
 
