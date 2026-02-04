@@ -13,23 +13,8 @@
 
 <br/><br/>
 
-  <!-- SOCIAL ICONS (THE FUNNEL) -->
-  <!-- Priority: Community & Support -->
-
-<a href="https://buymeacoffee.com/luissambranoux" title="Join my Private Community"><img src="https://cdn.simpleicons.org/buymeacoffee/FFDD00" width="32"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/placeholder" title="Join Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" width="32"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn (Using reliable Imgur source or Shields badge hack) -->
-
-<a href="https://linkedin.com/in/luissambranoux" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/luissambrano_ux" title="X / Twitter"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="32"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://bento.me/luissambranoux" title="Portfolio"><img src="https://cdn.simpleicons.org/bento/4285F4" width="32"/></a>
-
-<br/><br/>
+  <!-- SOCIAL ICONS REMOVED -->
+  <br/>
 
   <!-- AUTHORITY STATS -->
 
