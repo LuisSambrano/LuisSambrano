@@ -131,6 +131,25 @@
 
 <br/>
 
+</div>
+  </div>
+
+<br/>
+
+<!-- STRATEGY LOG (Research-First) -->
+<div align="center">
+  <h3>🧠 Strategy & Research</h3>
+  <p>Every decision in this profile follows the <b>Antigravity Protocol</b>.</p>
+  <table align="center">
+    <tr>
+      <td align="center"><a href="./research/KEY_FINDINGS.md"><b>KEY_FINDINGS.md</b><br/>(Brand Strategy)</a></td>
+      <td align="center"><a href="./research/prompts/"><b>Prompts</b><br/>(Execution Logs)</a></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <!-- GITHUB ACTIVITY -->
 
 <div align="center">
