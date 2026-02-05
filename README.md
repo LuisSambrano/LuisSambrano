@@ -53,31 +53,31 @@
     <tr>
       <td align="center">
         <a href="https://github.com/LuisSambrano/antigravity-config">
-          <img src="https://img.shields.io/badge/AI_Workspaces-Research_First-purple?style=for-the-badge&logo=brain"/>
+          <img src="https://img.shields.io/badge/AI_Workspaces-Configuration-purple?style=for-the-badge&logo=brain"/>
         </a>
         <br/><br/>
-        The <b>Gold Standard</b> for AI Engineering. Gemini/Cursor rules, Research Protocols & Multi-Agent Orchestration.
+        <b>System Configuration</b> for AI Agents. Includes standard protocols, rule sets for Gemini/Cursor, and multi-agent workflow definitions.
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/puente-fintech-dapp">
           <img src="https://img.shields.io/badge/Blockchain-Fintech-blue?style=for-the-badge&logo=ethereum"/>
         </a>
         <br/><br/>
-        <b>P2P Remittances</b> on Celo Blockchain. React Native + Solidity.
+        <b>P2P Remittances</b> on Celo Blockchain. Built with React Native and Solidity.
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/venezuela-news-app">
-          <img src="https://img.shields.io/badge/M%26TVenezuela-AI_Native-green?style=for-the-badge&logo=google-news"/>
+          <img src="https://img.shields.io/badge/News_Platform-Next.js-green?style=for-the-badge&logo=google-news"/>
         </a>
         <br/><br/>
-        <b>M&TVenezuela</b>: AI-driven platform for historical memory. 100% Research-First Architecture.
+        <b>M&TVenezuela</b>: Historical memory platform. Implements dedicated Research modules and verified data sources.
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">
           <img src="https://img.shields.io/badge/Research-Stablecoin_Model-gold?style=for-the-badge&logo=wikibooks"/>
         </a>
         <br/><br/>
-        <b>Bolivar Research</b>: Theoretical framework for a sovereign stablecoin. Open Source <b>Governance & Security</b> breakdown.
+        <b>Bolivar Research</b>: Theoretical framework for a Sovereign Stablecoin. Includes Governance models and Security policies.
       </td>
     </tr>
   </table>
