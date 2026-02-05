@@ -139,7 +139,7 @@
 <!-- STRATEGY LOG (Research-First) -->
 <div align="center">
   <h3>🧠 Strategy & Research</h3>
-  <p>Every decision in this profile follows the <b>Antigravity Protocol</b>.</p>
+  <p>Built with my personal <b>Research-First</b> methodology, managed via <b>Antigravity</b>.</p>
   <table align="center">
     <tr>
       <td align="center"><a href="./research/KEY_FINDINGS.md"><b>KEY_FINDINGS.md</b><br/>(Brand Strategy)</a></td>
