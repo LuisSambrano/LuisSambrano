@@ -48,15 +48,15 @@
       <th width="200">Antigravity Config</th>
       <th width="200">Puente Fintech</th>
       <th width="200">Venezuela News</th>
-      <th width="200">Badge Scanner</th>
+      <th width="200">Bolivar Stablecoin</th>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/LuisSambrano/antigravity-config">
-          <img src="https://img.shields.io/badge/AI_Workspaces-100%2B-purple?style=for-the-badge&logo=brain"/>
+          <img src="https://img.shields.io/badge/AI_Workspaces-Research_First-purple?style=for-the-badge&logo=brain"/>
         </a>
         <br/><br/>
-        The ultimate <b>Gemini/Cursor configuration</b> for AI Agents. 100+ skills, Prompts, and Rules.
+        The <b>Gold Standard</b> for AI Engineering. Gemini/Cursor rules, Research Protocols & Multi-Agent Orchestration.
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/puente-fintech-dapp">
@@ -67,17 +67,17 @@
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/venezuela-news-app">
-          <img src="https://img.shields.io/badge/M%26TVenezuela-Memory_%26_Truth-green?style=for-the-badge&logo=google-news"/>
+          <img src="https://img.shields.io/badge/M%26TVenezuela-AI_Native-green?style=for-the-badge&logo=google-news"/>
         </a>
         <br/><br/>
-        <b>M&TVenezuela</b>: AI-driven platform for historical memory and truth verification.
+        <b>M&TVenezuela</b>: AI-driven platform for historical memory. 100% Research-First Architecture.
       </td>
       <td align="center">
-        <a href="https://github.com/LuisSambrano/badge-scanner">
-          <img src="https://img.shields.io/badge/Badge_Scanner-Gamification-orange?style=for-the-badge&logo=github"/>
+        <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">
+          <img src="https://img.shields.io/badge/Research-Stablecoin_Model-gold?style=for-the-badge&logo=wikibooks"/>
         </a>
         <br/><br/>
-        <b>Badge Scanner</b>: Detect unused GitHub Achievements & Stats. Next.js 14 + GraphQL.
+        <b>Bolivar Research</b>: Theoretical framework for a sovereign stablecoin. Open Source <b>Governance & Security</b> breakdown.
       </td>
     </tr>
   </table>
