@@ -24,13 +24,6 @@
 
 <br/>
 
-<!-- NEWS FEED SECTION -->
-<div align="center">
-  <h2>⚡ Recent Updates</h2>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-</div>
-
 <br/>
 
 <br/>
