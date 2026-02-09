@@ -63,7 +63,7 @@
           <img src="https://img.shields.io/badge/News_Platform-Next.js-green?style=for-the-badge&logo=google-news"/>
         </a>
         <br/><br/>
-        <b>M&TVenezuela</b>: Historical memory platform. Implements dedicated Research modules and verified data sources.
+        <b>M&T Venezuela</b>: AI-powered Intelligence Platform. Features <b>automated news aggregation</b> (Edge Functions + pg_cron), dual-provider failover (GNews/NewsData), and a robust <b>CMS</b> for editorial control.
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">
