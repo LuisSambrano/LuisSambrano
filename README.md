@@ -18,7 +18,7 @@
 
 <a href="https://github.com/LuisSambrano?tab=repositories"><img src="https://img.shields.io/github/stars/LuisSambrano?style=for-the-badge&logo=github&label=Stars&color=yellow"/></a>
 <a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/github/followers/LuisSambrano?style=for-the-badge&logo=github&label=Followers&color=blue"/></a>
-<a href="https://github.com/LuisSambrano"><img src="https://img.shields.io/github/v/release/LuisSambrano/antigravity-config?style=for-the-badge&logo=github&label=Latest%20Release&color=green"/></a>
+<a href="https://github.com/LuisSambrano"><img src="https://img.shields.io/github/v/release/LuisSambrano/invoice-automation-saas?style=for-the-badge&logo=github&label=Latest%20Release&color=green"/></a>
 
 </div>
 
@@ -41,7 +41,7 @@
       <th width="200">Antigravity Config</th>
       <th width="200">Puente Fintech</th>
       <th width="200">Venezuela News</th>
-      <th width="200">Bolivar Stablecoin</th>
+      <th width="200">Invoice Zero</th>
     </tr>
     <tr>
       <td align="center">
@@ -66,11 +66,11 @@
         <b>M&T Venezuela</b>: AI Intelligence Platform. Features <b>automated news aggregation</b> and a robust editorial <b>CMS</b>.
       </td>
       <td align="center">
-        <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">
-          <img src="https://img.shields.io/badge/Research-Stablecoin_Model-gold?style=for-the-badge&logo=wikibooks"/>
+        <a href="https://github.com/LuisSambrano/invoice-automation-saas">
+          <img src="https://img.shields.io/badge/Local_First-Invoice_App-blue?style=for-the-badge&logo=tauri"/>
         </a>
         <br/><br/>
-        <b>Bolivar Research</b>: Theoretical framework for a Sovereign Stablecoin. Includes Governance models and Security policies.
+        <b>Invoice Zero</b>: Privacy-focused <b>Invoice Automation</b>. Built with <b>Tauri (Rust)</b> & React. 100% Offline & Local-first architecture.
       </td>
     </tr>
   </table>
@@ -88,6 +88,7 @@
 <div align="center">
 <h3>🤖 AI & Orchestration</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -98,6 +99,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
