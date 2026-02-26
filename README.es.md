@@ -39,7 +39,7 @@
     <tr>
       <th width="200">Antigravity Config</th>
       <th width="200">Puente Fintech</th>
-      <th width="200">Libertad VNZLA</th>
+      <th width="200">Libertad VZLA</th>
       <th width="200">Bolívar Stablecoin</th>
     </tr>
     <tr>
