@@ -16,8 +16,8 @@
   <!-- AUTHORITY STATS -->
 
 <a href="https://github.com/LuisSambrano?tab=repositories"><img src="https://img.shields.io/github/stars/LuisSambrano?style=for-the-badge&logo=github&label=Estrelas&color=yellow"/></a>
-<a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/github/followers/LuisSambrano?style=for-the-badge&logo=github&label=Seguidores&color=blue"/></a>
-<a href="https://github.com/LuisSambrano"><img src="https://img.shields.io/github/v/release/LuisSambrano/invoice-automation-saas?style=for-the-badge&logo=github&label=Último%20Lançamento&color=green"/></a>
+<a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLuisSambrano&query=followers&style=for-the-badge&logo=github&label=Seguidores&color=blue"/></a>
+<a href="https://github.com/LuisSambrano/puente-fintech-dapp/releases/latest"><img src="https://img.shields.io/github/v/release/LuisSambrano/puente-fintech-dapp?style=for-the-badge&logo=github&label=Último%20Lançamento&color=green"/></a>
 
 </div>
 
