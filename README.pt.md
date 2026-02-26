@@ -40,7 +40,7 @@
       <th width="200">Antigravity Config</th>
       <th width="200">Puente Fintech</th>
       <th width="200">Libertad VNZLA</th>
-      <th width="200">Invoice Automation</th>
+      <th width="200">Bolívar Stablecoin</th>
     </tr>
     <tr>
       <td align="center">
@@ -52,10 +52,10 @@
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/puente-fintech-dapp">
-          <img src="https://img.shields.io/badge/Fintech-Blockchain-blue?style=for-the-badge&logo=ethereum"/>
+          <img src="https://img.shields.io/badge/Next.js-DApp-black?style=for-the-badge&logo=next.js"/>
         </a>
         <br/><br/>
-        <b>Remessas P2P</b>. Contratos Inteligentes na blockchain da Celo construídos com React Native e Solidity.
+        <b>Remessas P2P</b>. DApp na Celo L2 construída com Next.js, Privy (Wallets não custodiais) e SocialConnect.
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/venezuela-news-app">
@@ -65,11 +65,11 @@
         <b>Plataforma de Notícias Full-Stack</b>. Possui SSR estrito, Server Actions, scrollytelling progressivo e um CMS editorial robusto suportado pelo Supabase.
       </td>
       <td align="center">
-        <a href="https://github.com/LuisSambrano/invoice-automation-saas">
-          <img src="https://img.shields.io/badge/Desktop-Rust-blue?style=for-the-badge&logo=tauri"/>
+        <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">
+          <img src="https://img.shields.io/badge/Web3-Research-purple?style=for-the-badge&logo=ethereum"/>
         </a>
         <br/><br/>
-        <b>Sistema de Automação de Faturas</b>. Construído com Tauri (Rust) e React. 100% Offline, arquitetura de banco de dados "local-first" e armazenamento seguro.
+        <b>Pesquisa Stablecoin</b>. Análise open-source sobre a viabilidade técnica, regulatória e econômica de criar uma stablecoin indexada ao Bolívar venezuelano.
       </td>
     </tr>
   </table>
