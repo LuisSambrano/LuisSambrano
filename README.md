@@ -17,7 +17,7 @@
 
 <a href="https://github.com/LuisSambrano?tab=repositories"><img src="https://img.shields.io/github/stars/LuisSambrano?style=for-the-badge&logo=github&label=Stars&color=yellow"/></a>
 <a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLuisSambrano&query=followers&style=for-the-badge&logo=github&label=Followers&color=blue"/></a>
-<a href="https://github.com/LuisSambrano/puente-fintech-dapp/releases/latest"><img src="https://img.shields.io/github/v/release/LuisSambrano/puente-fintech-dapp?style=for-the-badge&logo=github&label=Latest%20Release&color=green"/></a>
+<a href="https://github.com/LuisSambrano/puente-fintech-dapp-showcase"><img src="https://img.shields.io/github/stars/LuisSambrano/puente-fintech-dapp-showcase?style=for-the-badge&logo=github&label=Top%20Project&color=green"/></a>
 
 </div>
 
@@ -51,14 +51,14 @@
         <b>Development Configuration</b>. Standardized protocols, engineering workflows, and automation rules for AI-assisted development (Cursor/Gemini).
       </td>
       <td align="center">
-        <a href="https://github.com/LuisSambrano/puente-fintech-dapp">
+        <a href="https://github.com/LuisSambrano/puente-fintech-dapp-showcase">
           <img src="https://img.shields.io/badge/Next.js-DApp-black?style=for-the-badge&logo=next.js"/>
         </a>
         <br/><br/>
         <b>P2P Remittances</b>. Decentralized app on Celo L2 built with Next.js, Privy (Non-custodial wallets), and SocialConnect.
       </td>
       <td align="center">
-        <a href="https://github.com/LuisSambrano/venezuela-news-app">
+        <a href="https://github.com/LuisSambrano/venezuela-news-app-showcase">
           <img src="https://img.shields.io/badge/Next.js-Platform-green?style=for-the-badge&logo=next.js"/>
         </a>
         <br/><br/>
@@ -71,6 +71,30 @@
         <br/><br/>
         <b>Stablecoin Research</b>. Open-source research assessing the technical, regulatory, and economic viability of a Venezuelan Bolivar-pegged stablecoin.
       </td>
+    </tr>
+    <tr>
+      <th width="200">Invoice SaaS</th>
+      <th width="200">n8n Automations</th>
+      <th width="200"></th>
+      <th width="200"></th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/LuisSambrano/invoice-automation-saas-showcase">
+          <img src="https://img.shields.io/badge/SaaS-Platform-blue?style=for-the-badge&logo=react"/>
+        </a>
+        <br/><br/>
+        <b>Invoice Automation</b>. B2B SaaS architecture for automated invoice processing and automated financial workflows.
+      </td>
+      <td align="center">
+        <a href="https://github.com/LuisSambrano/n8n-automations-showcase">
+          <img src="https://img.shields.io/badge/n8n-Workflows-ff6600?style=for-the-badge&logo=n8n"/>
+        </a>
+        <br/><br/>
+        <b>AI Automations</b>. Advanced automated workflows connecting LLMs, CRMs, and internal APIs using n8n and MCP.
+      </td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
   </table>
 
