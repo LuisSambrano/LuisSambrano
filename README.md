@@ -45,28 +45,28 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/LuisSambrano/antigravity-config">
-          <img src="https://img.shields.io/badge/System-Architecture-purple?style=for-the-badge&logo=github"/>
+          <img src="https://img.shields.io/badge/System%20Architecture-000000?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <br/><br/>
         <b>Development Configuration</b>. Standardized protocols, engineering workflows, and automation rules for AI-assisted development (Cursor/Gemini).
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/LuisSambrano/puente-fintech-dapp-showcase">
-          <img src="https://img.shields.io/badge/Next.js-DApp-black?style=for-the-badge&logo=next.js"/>
+          <img src="https://img.shields.io/badge/Next.js%20DApp-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
         </a>
         <br/><br/>
         <b>P2P Remittances</b>. Decentralized app on Celo L2 built with Next.js, Privy (Non-custodial wallets), and SocialConnect.
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/LuisSambrano/venezuela-news-app-showcase">
-          <img src="https://img.shields.io/badge/Next.js-Platform-green?style=for-the-badge&logo=next.js"/>
+          <img src="https://img.shields.io/badge/Next.js%20Platform-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
         </a>
         <br/><br/>
         <b>Full-Stack News Platform</b>. Features strict SSR, Server Actions, progressive scrollytelling, and a robust editorial CMS backed by Supabase.
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">
-          <img src="https://img.shields.io/badge/Web3-Research-purple?style=for-the-badge&logo=ethereum"/>
+          <img src="https://img.shields.io/badge/Web3%20Research-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
         </a>
         <br/><br/>
         <b>Stablecoin Research</b>. Open-source research assessing the technical, regulatory, and economic viability of a Venezuelan Bolivar-pegged stablecoin.
@@ -81,28 +81,28 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/LuisSambrano/invoice-automation-saas-showcase">
-          <img src="https://img.shields.io/badge/SaaS-Platform-blue?style=for-the-badge&logo=react"/>
+          <img src="https://img.shields.io/badge/SaaS%20Platform-000000?style=for-the-badge&logo=react&logoColor=white"/>
         </a>
         <br/><br/>
         <b>Invoice Automation</b>. B2B SaaS architecture for automated invoice processing and automated financial workflows.
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/LuisSambrano/n8n-automations-showcase">
-          <img src="https://img.shields.io/badge/n8n-Workflows-ff6600?style=for-the-badge&logo=n8n"/>
+          <img src="https://img.shields.io/badge/n8n%20Workflows-111111?style=for-the-badge&logo=n8n&logoColor=white"/>
         </a>
         <br/><br/>
         <b>AI Automations</b>. Advanced automated workflows connecting LLMs, CRMs, and internal APIs using n8n and MCP.
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/LuisSambrano/venezuela-dolar-api">
-          <img src="https://img.shields.io/badge/REST-API-yellow?style=for-the-badge&logo=fastapi"/>
+          <img src="https://img.shields.io/badge/Financial%20API-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
         </a>
         <br/><br/>
         <b>Financial API</b>. Real-time exchange rate API providing automated and reliable financial data for the Venezuelan market.
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/LuisSambrano/today-i-learned">
-          <img src="https://img.shields.io/badge/Kaizen-Knowledge-white?style=for-the-badge&logo=markdown&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Kaizen%20Knowledge-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
         </a>
         <br/><br/>
         <b>Continuous Learning</b>. A personal knowledge base documenting daily technical learnings, system architecture bugs, and AI engineering insights.
