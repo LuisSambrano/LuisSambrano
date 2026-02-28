@@ -75,8 +75,8 @@
     <tr>
       <th width="200">Invoice SaaS</th>
       <th width="200">n8n Automations</th>
-      <th width="200"></th>
-      <th width="200"></th>
+      <th width="200">Dólar API</th>
+      <th width="200">Today I Learned</th>
     </tr>
     <tr>
       <td align="center">
@@ -93,8 +93,20 @@
         <br/><br/>
         <b>AI Automations</b>. Advanced automated workflows connecting LLMs, CRMs, and internal APIs using n8n and MCP.
       </td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">
+        <a href="https://github.com/LuisSambrano/venezuela-dolar-api">
+          <img src="https://img.shields.io/badge/REST-API-yellow?style=for-the-badge&logo=fastapi"/>
+        </a>
+        <br/><br/>
+        <b>Financial API</b>. Real-time exchange rate API providing automated and reliable financial data for the Venezuelan market.
+      </td>
+      <td align="center">
+        <a href="https://github.com/LuisSambrano/today-i-learned">
+          <img src="https://img.shields.io/badge/Kaizen-Knowledge-white?style=for-the-badge&logo=markdown&logoColor=black"/>
+        </a>
+        <br/><br/>
+        <b>Continuous Learning</b>. A personal knowledge base documenting daily technical learnings, system architecture bugs, and AI engineering insights.
+      </td>
     </tr>
   </table>
 
