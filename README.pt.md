@@ -115,8 +115,8 @@
 
 <!-- DYNAMIC STATS (Auto-Updates) -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LuisSambrano&layout=compact&theme=radical&hide_border=true&locale=pt-br" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LuisSambrano&layout=compact&theme=radical&hide_border=true&locale=pt-br&hide=python,shell,jupyter+notebook&cache_seconds=1800" height="150" alt="Top Langs" />
 </div>
 
 <br/>
