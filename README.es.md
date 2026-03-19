@@ -137,7 +137,7 @@
 </div>
 
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&background=0D1117" height="150" alt="Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&background=0D1117&locale=es" height="150" alt="Streak Stats"/>
     <br/>
     <!-- SNAKE ANIMATION -->
     <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake animation"/>
