@@ -58,11 +58,11 @@
         <b>Remessas P2P</b>. DApp na Celo L2 construída com Next.js, Privy (Wallets não custodiais) e SocialConnect.
       </td>
       <td align="center">
-        <a href="https://github.com/LuisSambrano/venezuela-news-app">
-          <img src="https://img.shields.io/badge/Plataforma-Next.js-green?style=for-the-badge&logo=next.js"/>
+        <a href="https://github.com/LuisSambrano/libertad-showcase">
+          <img src="https://img.shields.io/badge/Next.js-Proprietary-red?style=for-the-badge&logo=next.js"/>
         </a>
         <br/><br/>
-        <b>Plataforma de Notícias Full-Stack</b>. Possui SSR estrito, Server Actions, scrollytelling progressivo e um CMS editorial robusto suportado pelo Supabase.
+        <b>Plataforma de Notícias Independente</b>. Plataforma de jornalismo protegida para a Venezuela. SSR, Server Actions, Supabase RLS, edge deploy. <i>BSL 1.1 — <a href="mailto:luis@luissambrano.com">Contato para colaboração</a></i>.
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">

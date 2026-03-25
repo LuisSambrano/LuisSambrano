@@ -58,11 +58,11 @@
         <b>P2P Remittances</b>. Decentralized app on Celo L2 built with Next.js, Privy (Non-custodial wallets), and SocialConnect.
       </td>
       <td align="center">
-        <a href="https://github.com/LuisSambrano/venezuela-news-app">
-          <img src="https://img.shields.io/badge/Next.js-Platform-green?style=for-the-badge&logo=next.js"/>
+        <a href="https://github.com/LuisSambrano/libertad-showcase">
+          <img src="https://img.shields.io/badge/Next.js-Proprietary-red?style=for-the-badge&logo=next.js"/>
         </a>
         <br/><br/>
-        <b>Full-Stack News Platform</b>. Features strict SSR, Server Actions, progressive scrollytelling, and a robust editorial CMS backed by Supabase.
+        <b>Independent News Platform</b>. Security-hardened journalism platform for Venezuela. SSR, Server Actions, Supabase RLS, edge deployment. <i>BSL 1.1 — <a href="mailto:luis@luissambrano.com">Contact for collaboration</a></i>.
       </td>
       <td align="center">
         <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">
