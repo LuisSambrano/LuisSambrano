@@ -1,41 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" preserveAspectRatio="xMidYMid slice">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Luis Sambrano — Full-stack builder, AI in the loop">
   <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
     <style>
-      .bracket { fill: #2196F3; font-family: monospace, Consolas, 'Courier New'; font-weight: bold; opacity: 0.8; }
-      .name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; filter: url(#glow); }
-      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 16px; }
-      
-      /* Dark Mode (Default) */
-      .name { fill: #ffffff; }
-      .subtitle { fill: #cccccc; }
-      
-      /* Light Mode */
-      @media (prefers-color-scheme: light) {
-        .name { fill: #333333; }
-        .subtitle { fill: #555555; }
+      .name {
+        font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 50px;
+        letter-spacing: 0.5px;
+      }
+      .tag {
+        font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 6px;
+      }
+      .name { fill: #111827; }
+      .tag  { fill: #6b7280; }
+      .rule { stroke: #d1d5db; stroke-width: 1.25; }
+      @media (prefers-color-scheme: dark) {
+        .name { fill: #f4f4f5; }
+        .tag  { fill: #a1a1aa; }
+        .rule { stroke: #3f3f46; }
       }
     </style>
   </defs>
-  
-  <!-- Content Group centered -->
   <g text-anchor="middle">
-    <!-- Main Title: < Luis Sambrano /> -->
-    <text x="400" y="80" font-size="52">
-      <tspan class="bracket">&lt;</tspan>
-      <tspan class="name" dx="10">Luis Sambrano</tspan>
-      <tspan class="bracket" dx="10">/&gt;</tspan>
-    </text>
-    
-    <!-- Subtitle -->
-    <text x="400" y="120" class="subtitle">
-      AI Architect • Autonomous Agents • Google Cloud
-    </text>
+    <text class="name" x="400" y="72">Luis Sambrano</text>
+    <line class="rule" x1="280" y1="100" x2="520" y2="100"/>
+    <text class="tag" x="403" y="130">FULL-STACK&#160;BUILDER&#160;&#183;&#160;AI&#160;IN&#160;THE&#160;LOOP</text>
   </g>
 </svg>

@@ -1,168 +1,48 @@
-<!--
-  Luis Sambrano | Software Engineer & System Architect
-  Specializing in Full-Stack Development, Distributed Systems, and AI Engineering.
--->
-
 <div align="center">
 
-  <!-- HERO SECTION: DYNAMIC ATMOSPHERE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%" />
+<sub><b>English</b> · <a href="./README.es.md">Español</a></sub>
 
-  <!-- MINIMALIST TITLE -->
-  <img src="./assets/header.svg" alt="Luis Sambrano" width="800" />
+<img src="./assets/header.svg" alt="Luis Sambrano — Full-stack builder, AI in the loop" width="640" />
 
-  <br/>
+<br/>
 
-  <!-- AUTHORITY STATS -->
-
-<a href="https://github.com/LuisSambrano?tab=repositories"><img src="https://img.shields.io/github/stars/LuisSambrano?style=for-the-badge&logo=github&label=Stars&color=yellow"/></a>
-<a href="https://github.com/LuisSambrano?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLuisSambrano&query=followers&style=for-the-badge&logo=github&label=Followers&color=blue"/></a>
-<a href="https://github.com/LuisSambrano/puente-fintech-dapp/releases/latest"><img src="https://img.shields.io/github/v/release/LuisSambrano/puente-fintech-dapp?style=for-the-badge&logo=github&label=Latest%20Release&color=green"/></a>
+<em>I build full-stack products end-to-end — with AI agents in the loop.</em>
 
 </div>
 
 <br/>
 
-<br/>
+I'm a full-stack builder based in Argentina. I design and ship software across **fintech**, **developer tooling**, and **automation** — increasingly with AI agents (Claude Code) carrying real weight in my workflow. I gravitate toward small, sharp systems that solve concrete problems, many of them aimed at Latin America.
 
-<br/>
+## Selected work
 
-<!-- FEATURED PROJECTS -->
+- **[antigravity-config](https://github.com/LuisSambrano/antigravity-config)** — A framework that installs reusable skills, workflows, and rules into AI coding agents (Claude Code, Gemini CLI, Cursor) from a single repo.
+  <br/><sub>Python · Bash · most-starred repo</sub>
 
-<div align="center">
+- **[badge-scanner](https://github.com/LuisSambrano/badge-scanner)** — Web app that surfaces hidden GitHub achievements (Pull Shark, YOLO, Quickdraw) and tracks your progress to the next tier.
+  <br/><sub>Next.js 16 · GitHub GraphQL · <a href="https://badge-scanner-coral.vercel.app">live demo</a></sub>
 
-## Featured Projects
+- **[dolar](https://github.com/LuisSambrano/dolar)** — Real-time Venezuelan exchange-rate dashboard, tuned for zero layout shift.
+  <br/><sub>React 19 · Vite · <a href="https://dolar-chi.vercel.app">live demo</a></sub>
 
-</div>
+- **[bolívar](https://github.com/LuisSambrano/bolivar)** — Open research on the technical, regulatory, and economic feasibility of a bolívar-pegged stablecoin.
+  <br/><sub>Research · published with a DOI</sub>
 
-  <table>
-    <tr>
-      <th width="200">Antigravity Config</th>
-      <th width="200">Puente Fintech</th>
-      <th width="200">Libertad VZLA</th>
-      <th width="200">Bolívar Stablecoin</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/LuisSambrano/antigravity-config">
-          <img src="https://img.shields.io/badge/System-Architecture-purple?style=for-the-badge&logo=github"/>
-        </a>
-        <br/><br/>
-        <b>Development Configuration</b>. Standardized protocols, engineering workflows, and automation rules for AI-assisted development (Cursor/Gemini).
-      </td>
-      <td align="center">
-        <a href="https://github.com/LuisSambrano/puente-fintech-dapp">
-          <img src="https://img.shields.io/badge/Next.js-DApp-black?style=for-the-badge&logo=next.js"/>
-        </a>
-        <br/><br/>
-        <b>P2P Remittances</b>. Decentralized app on Celo L2 built with Next.js, Privy (Non-custodial wallets), and SocialConnect.
-      </td>
-      <td align="center">
-        <a href="https://github.com/LuisSambrano/libertad-showcase">
-          <img src="https://img.shields.io/badge/Next.js-Proprietary-red?style=for-the-badge&logo=next.js"/>
-        </a>
-        <br/><br/>
-        <b>Independent News Platform</b>. Security-hardened journalism platform for Venezuela. SSR, Server Actions, Supabase RLS, edge deployment. <i>BSL 1.1 — <a href="mailto:luis@luissambrano.com">Contact for collaboration</a></i>.
-      </td>
-      <td align="center">
-        <a href="https://github.com/LuisSambrano/bolivar-stablecoin-research">
-          <img src="https://img.shields.io/badge/Web3-Research-purple?style=for-the-badge&logo=ethereum"/>
-        </a>
-        <br/><br/>
-        <b>Stablecoin Research</b>. Open-source research assessing the technical, regulatory, and economic viability of a Venezuelan Bolivar-pegged stablecoin.
-      </td>
-    </tr>
-  </table>
+## Building now
 
-<br/>
+Heads-down on **Puente**, a P2P remittance platform on Celo for the Venezuelan diaspora (Next.js · Supabase · non-custodial wallets), plus local-first tooling for invoicing and sales automation. Private for now — happy to walk you through them.
 
-<!-- TECH STACK & SKILLS -->
+## Stack
 
-<div align="center">
+| | |
+|---|---|
+| **Languages** | TypeScript · Python · Rust |
+| **Web** | React · Next.js · Tailwind · Tauri |
+| **Data & infra** | Supabase · PostgreSQL · Vercel · Docker |
+| **AI** | Claude Code · agentic workflows · prompt engineering |
 
-## Tech Stack
+## Let's talk
 
-</div>
+Open to engineering collaborations and product builds.
 
-<div align="center">
-<h3>Engineering & AI</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<br/><br/>
-
-<h3>Full Stack Ecosystem</h3>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br/><br/>
-
-<h3>Cloud & DevOps</h3>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  </div>
-
-<br/>
-
-<!-- DYNAMIC STATS (Auto-Updates) -->
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuisSambrano&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=LuisSambrano&layout=compact&theme=radical&hide_border=true&hide=python,shell,jupyter+notebook&cache_seconds=1800&v=1" height="150" alt="Top Langs" />
-</div>
-
-<br/>
-
-</div>
-  </div>
-
-<br/>
-
-<br/>
-
-<!-- GITHUB ACTIVITY -->
-
-<div align="center">
-
-## GitHub Activity
-
-</div>
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSambrano&theme=radical&hide_border=true&background=0D1117&v=1" height="150" alt="Streak Stats"/>
-    <br/>
-    <!-- SNAKE ANIMATION -->
-    <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake animation"/>
-  </div>
-
----
-
-<!-- CONTACT SECTION -->
-<div align="center">
-
-## Contact & Collaboration
-
-I'm currently open for **engineering challenges** and **technical collaborations**.  
-_Let's build scalable software together._
-
-<p align="center">
-  <a href="https://t.me/luissambrano_ux"><img src="https://img.shields.io/badge/Contact-Telegram-1DA1F2?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
-  <a href="https://github.com/LuisSambrano/antigravity-config"><img src="https://img.shields.io/badge/Repo-Protocol_Zero-yellow?style=for-the-badge&logo=github" alt="Protocol Zero"/></a>
-</p>
-
-</div>
-
-<br/>
-
-<!-- FOOTER: DYNAMIC CLOSURE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+[Email](mailto:soyluissambrano@gmail.com) · [X · @luissambrano_ux](https://x.com/luissambrano_ux) · [Telegram](https://t.me/luissambrano_ux)
