@@ -2,47 +2,46 @@
 
 <sub><a href="./README.md">English</a> · <b>Español</b></sub>
 
-<img src="./assets/header.svg" alt="Luis Sambrano — Full-stack builder, AI in the loop" width="640" />
-
-<br/>
-
-<em>Construyo productos full-stack de punta a punta — con agentes de IA en el proceso.</em>
+<img src="./assets/header.svg" alt="Luis Sambrano, diseñador UX/UI y desarrollador fullstack" width="640" />
 
 </div>
 
 <br/>
 
-Soy un constructor full-stack radicado en Argentina. Diseño y lanzo software en **fintech**, **herramientas para desarrolladores** y **automatización** — cada vez más con agentes de IA (Claude Code) cargando peso real en mi flujo de trabajo. Me inclino por sistemas chicos y afilados que resuelven problemas concretos, muchos de ellos pensados para Latinoamérica.
+Diseñador UX/UI y desarrollador fullstack.
 
-## Proyectos destacados
+Diseño la interfaz y después la programo completa, front y back. Trabajo casi siempre con React, Next.js y TypeScript, con Supabase o Postgres del lado del servidor.
 
-- **[antigravity-config](https://github.com/LuisSambrano/antigravity-config)** — Un framework que instala skills, workflows y reglas reutilizables en agentes de IA (Claude Code, Gemini CLI, Cursor) desde un solo repo.
-  <br/><sub>Python · Bash · repo con más estrellas</sub>
+Mi proyecto principal es **Libertad VZLA**, una plataforma de periodismo independiente para Venezuela. Empezó como un proyecto personal y ya es una organización con equipo. También ayudo a organizaciones sin fines de lucro a armar sus sitios web, y trabajo en proyectos de fintech y automatización.
 
-- **[badge-scanner](https://github.com/LuisSambrano/badge-scanner)** — App web que revela los logros ocultos de GitHub (Pull Shark, YOLO, Quickdraw) y mide tu progreso hacia el siguiente nivel.
-  <br/><sub>Next.js 16 · GitHub GraphQL · <a href="https://badge-scanner-coral.vercel.app">demo en vivo</a></sub>
+## Proyectos
 
-- **[dolar](https://github.com/LuisSambrano/dolar)** — Dashboard de tipo de cambio venezolano en tiempo real, optimizado para cero layout shift.
-  <br/><sub>React 19 · Vite · <a href="https://dolar-chi.vercel.app">demo en vivo</a></sub>
+- **[Libertad VZLA](https://github.com/Libertad-Vzla)**  
+  Plataforma de periodismo independiente para Venezuela. Reportes ciudadanos con fuentes verificadas, pensada para seguir funcionando donde la información independiente está bloqueada. Pasó de proyecto personal a organización con equipo.
 
-- **[bolívar](https://github.com/LuisSambrano/bolivar)** — Investigación abierta sobre la viabilidad técnica, regulatoria y económica de una stablecoin anclada al bolívar.
-  <br/><sub>Research · publicado con DOI</sub>
+- **[antigravity-config](https://github.com/LuisSambrano/antigravity-config)**  
+  Instala skills y flujos reutilizables en agentes de código como Claude Code.
+  <br/><sub>Mi repo con más estrellas</sub>
 
-## Construyendo ahora
+- **[badge-scanner](https://github.com/LuisSambrano/badge-scanner)**  
+  App web que encuentra los logros ocultos de tu perfil de GitHub y te muestra cuánto te falta para el siguiente.
+  <br/><sub>Next.js · <a href="https://badge-scanner-coral.vercel.app">demo</a></sub>
 
-Metido de lleno en **Puente**, una plataforma de remesas P2P sobre Celo para la diáspora venezolana (Next.js · Supabase · wallets no custodiales), además de herramientas local-first para facturación y automatización de ventas. Privados por ahora — con gusto te los muestro.
+- **[dolar](https://github.com/LuisSambrano/dolar)**  
+  Dashboard en vivo del tipo de cambio venezolano, hecho para cargar rápido.
+  <br/><sub>React · Vite · <a href="https://dolar-chi.vercel.app">demo</a></sub>
 
 ## Stack
 
 | | |
 |---|---|
-| **Lenguajes** | TypeScript · Python · Rust |
-| **Web** | React · Next.js · Tailwind · Tauri |
-| **Datos & infra** | Supabase · PostgreSQL · Vercel · Docker |
-| **IA** | Claude Code · workflows con agentes · prompt engineering |
+| **Diseño** | UX/UI, prototipado |
+| **Frontend** | React, Next.js, TypeScript, Tailwind |
+| **Backend** | Supabase, PostgreSQL, Node |
+| **Otros** | Tauri, Python |
 
-## Hablemos
+## Contacto
 
-Abierto a colaboraciones de ingeniería y a construir producto.
+¿Trabajamos juntos? Escribime.
 
-[Email](mailto:soyluissambrano@gmail.com) · [X · @luissambrano_ux](https://x.com/luissambrano_ux) · [Telegram](https://t.me/luissambrano_ux)
+[Email](mailto:soyluissambrano@gmail.com) · [X](https://x.com/luissambrano_ux) · [Telegram](https://t.me/luissambrano_ux)

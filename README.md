@@ -2,47 +2,46 @@
 
 <sub><b>English</b> · <a href="./README.es.md">Español</a></sub>
 
-<img src="./assets/header.svg" alt="Luis Sambrano — Full-stack builder, AI in the loop" width="640" />
-
-<br/>
-
-<em>I build full-stack products end-to-end — with AI agents in the loop.</em>
+<img src="./assets/header.svg" alt="Luis Sambrano, UX/UI designer and full-stack developer" width="640" />
 
 </div>
 
 <br/>
 
-I'm a full-stack builder based in Argentina. I design and ship software across **fintech**, **developer tooling**, and **automation** — increasingly with AI agents (Claude Code) carrying real weight in my workflow. I gravitate toward small, sharp systems that solve concrete problems, many of them aimed at Latin America.
+UX/UI designer and full-stack developer.
+
+I design the interface and then build it, front and back. I work mostly with React, Next.js and TypeScript, with Supabase or Postgres on the server side.
+
+My main project is **Libertad VZLA**, an independent journalism platform for Venezuela. It started as a personal project and is now an organization with a team. I also help nonprofits build their websites, and I work on fintech and automation projects.
 
 ## Selected work
 
-- **[antigravity-config](https://github.com/LuisSambrano/antigravity-config)** — A framework that installs reusable skills, workflows, and rules into AI coding agents (Claude Code, Gemini CLI, Cursor) from a single repo.
-  <br/><sub>Python · Bash · most-starred repo</sub>
+- **[Libertad VZLA](https://github.com/Libertad-Vzla)**  
+  Independent journalism platform for Venezuela. Citizen reports with verified sources, made to keep working where independent information gets blocked. It went from a personal project to an organization with a team.
 
-- **[badge-scanner](https://github.com/LuisSambrano/badge-scanner)** — Web app that surfaces hidden GitHub achievements (Pull Shark, YOLO, Quickdraw) and tracks your progress to the next tier.
-  <br/><sub>Next.js 16 · GitHub GraphQL · <a href="https://badge-scanner-coral.vercel.app">live demo</a></sub>
+- **[antigravity-config](https://github.com/LuisSambrano/antigravity-config)**  
+  Installs reusable skills and workflows into coding agents like Claude Code.
+  <br/><sub>My most-starred repo</sub>
 
-- **[dolar](https://github.com/LuisSambrano/dolar)** — Real-time Venezuelan exchange-rate dashboard, tuned for zero layout shift.
-  <br/><sub>React 19 · Vite · <a href="https://dolar-chi.vercel.app">live demo</a></sub>
+- **[badge-scanner](https://github.com/LuisSambrano/badge-scanner)**  
+  Web app that finds the hidden achievements on your GitHub profile and shows how close you are to the next one.
+  <br/><sub>Next.js · <a href="https://badge-scanner-coral.vercel.app">demo</a></sub>
 
-- **[bolívar](https://github.com/LuisSambrano/bolivar)** — Open research on the technical, regulatory, and economic feasibility of a bolívar-pegged stablecoin.
-  <br/><sub>Research · published with a DOI</sub>
-
-## Building now
-
-Heads-down on **Puente**, a P2P remittance platform on Celo for the Venezuelan diaspora (Next.js · Supabase · non-custodial wallets), plus local-first tooling for invoicing and sales automation. Private for now — happy to walk you through them.
+- **[dolar](https://github.com/LuisSambrano/dolar)**  
+  Live dashboard of Venezuelan exchange rates, built to load fast.
+  <br/><sub>React · Vite · <a href="https://dolar-chi.vercel.app">demo</a></sub>
 
 ## Stack
 
 | | |
 |---|---|
-| **Languages** | TypeScript · Python · Rust |
-| **Web** | React · Next.js · Tailwind · Tauri |
-| **Data & infra** | Supabase · PostgreSQL · Vercel · Docker |
-| **AI** | Claude Code · agentic workflows · prompt engineering |
+| **Design** | UX/UI, prototyping |
+| **Frontend** | React, Next.js, TypeScript, Tailwind |
+| **Backend** | Supabase, PostgreSQL, Node |
+| **Other** | Tauri, Python |
 
-## Let's talk
+## Contact
 
-Open to engineering collaborations and product builds.
+Want to work together? Send me a message.
 
-[Email](mailto:soyluissambrano@gmail.com) · [X · @luissambrano_ux](https://x.com/luissambrano_ux) · [Telegram](https://t.me/luissambrano_ux)
+[Email](mailto:soyluissambrano@gmail.com) · [X](https://x.com/luissambrano_ux) · [Telegram](https://t.me/luissambrano_ux)

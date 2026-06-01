@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Luis Sambrano — Full-stack builder, AI in the loop">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Luis Sambrano, UX/UI designer and full-stack developer">
   <defs>
     <style>
       .name {
@@ -26,6 +26,6 @@
   <g text-anchor="middle">
     <text class="name" x="400" y="72">Luis Sambrano</text>
     <line class="rule" x1="280" y1="100" x2="520" y2="100"/>
-    <text class="tag" x="403" y="130">FULL-STACK&#160;BUILDER&#160;&#183;&#160;AI&#160;IN&#160;THE&#160;LOOP</text>
+    <text class="tag" x="400" y="130">UX/UI&#160;&#183;&#160;FULL-STACK&#160;DEVELOPER</text>
   </g>
 </svg>
